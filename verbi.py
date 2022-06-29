@@ -1,6 +1,16 @@
 '''
 verbi:
 
+heränyt-petaa peti-mene vessan-pese käset kasvot hampaat
+harjaa hiuset-pue vaatteet-syö aammupala
+tarkista reppu-lähden koulun
+
+bring it here
+tuo se tänne
+tuotsä sen tänne
+toisitko sen tänne
+voisitko tuoda sen tänne
+
 get can
 saada-saan-saa-sain-saanks-en saa-en saanut
 pystyä-pystyy-pystyisitkö auttamaan minua?
@@ -155,6 +165,9 @@ it is good to know them
 ne on hyvä osata ihan ulkooki
 someone who knows the language
 joku sun osaamista kielistä
+
+work
+toimin-toimin-en toimi-en toiminut
 toimittaa-puhelin ei toimi
 puhun-en puhu-puhuin-en puhunut
 persoonataivutus: vartalo+pääte puhun-t-u-mme-tte-vat
@@ -166,16 +179,25 @@ että on ihan ymmärrettävää että sulla ei oo aikaa panostaa yhtä lailla
 more than half
 ymmärrätte yli puolet mitä ma puhun
 löytää joku jonka kanssa puhua
+
+explain
 selittää
 selitin mitä mä olin tehny tai mitä mä aion tehdä
 ymmärrän-en ymmärrä
 when singing
-luulla-mä luulen että tää sama toimii myös laulaessa
+
+think
+luulla-luulen-luulin-en luule-en luulut
+mä luulen että tää sama toimii myös laulaessa
+
+see
 nähdä-näen-näin-näkisin-en näe
 where do we see see you tmr in
 missä nähdään-nähdään huomenna Valkeasaa
 this does not appear here looks like this
 näyttää-tää ei näy tässä-näyttää tältä
+
+hear
 kuulla-kuulen-en kuulee
 kuunnella-kuutelette-kuuntelen-en kuuntele-kuuntelin-en kuunnellut
 does not sound like an awful lot
@@ -335,7 +357,8 @@ alkaa-mä oon alkanu-aloin tehdä
 starting even from the bedroom
 aloitetaan vaikka makuuhuoneesta
 
-# take use
+
+take use
 ottaa-otan-en ota-otin-en ottanut-ei ottanut
 take one please
 ota ole hyvä
@@ -385,249 +408,398 @@ then, in principle, begins
 silloin periaatteessa alkaa paaston aika
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 come
-which comes as a surprise to many
-mikä tulee yllätyksenä monelle
+mikä tulee yllätyksenä monelle which comes as a surprise to many
 tulla-tulen-en tule-tulet-tulin-tulit-tulisin
-tule tänne-sisään-takaisin
-contains clothes
-sisältää vaatteita
-can fly
-voi lentää
-if you come
-jos tuut
-sisällyttää-otta mukaan
-vaatekaappi-kokovartalopeili
-lopettaa-jakson lopuksi
-kuten-sitä kutsutaan
-lääkäri kutsuu-soitta-kysyä sinut
-kuka tulee-ei kukaan-bussi tulee pian
-matkaa varten matka on kohti
-sinnekin mä oon menossa varmaan
-ennen koneeseen menoa niiku siis se ennen lentoa
-menen-en mene-menet-et mene-minä menin-
-en mennyt-sinä menit-et mennyt
-mutta lanttu ei mennyt pimeeks pimeäksi
-mene tuonne ulos-menään tänne-älä mene-
-mä meen töihin-töiden jälkeen-työmatkat-työttömyyden
-jos sä joudut työttömöks
-etsin töitä
-on töissä
-mä luen aina töissä lakitekstiä
-mutta ainakaan täällä ei voi eksyä
+tule tänne sisään takaisin come back here
+sisältää vaatteita contains clothes
+voi lentää can fly
+jos tuut if you come
+sisällyttää ottaa mukaan include take along
+vaatekaappi kokovartalopeili wardrobe with full-length mirror
+lopettaa jakson lopuksi end at the end of the episode
+kuka tulee-ei kukaan-bussi tulee pian who's coming — no one — the bus is coming soon
+matkaa varten matka on kohti for the journey the journey is towards
+sinnekin mä oon menossa varmaan I'm probably going there too
+ennen koneeseen menoa niinku siis se ennen lentoa before boarding, as it were before the flight
+menen-en mene-menet-et mene-minä menin-en mennyt-sinä menit-et mennyt
+mutta lanttu ei mennyt pimeeks pimeäksi but the lute did not go from dark to dark
+mene tuonne ulos-mennään tänne-älä mene go out there — let's go here — don't go
+mä meen töihin-töiden jälkeen-työmatkat-työttömyyden I go to work-after-work-commuting-unemployment
+mennään tähän let's go here
+jos sä joudut työttömaksi if you become unemployed
+etsin töitä I'm looking for work
+on töissä is working
+mä luen aina töissä lakitekstiä I always read the text of the law at work
+mutta ainakaan täällä ei voi eksyä but at least you can't get lost here
 mennään kahville-tänään ei käy-hyvän mennään huomenna
+let's go for coffee-no today-good let's go tomorrow
 jostain syystä haluatte mennä-menkää aikaan-älkää menkö
+for some reason you want to go — go for the time — don’t go
 
-# ravintola order-regisster
+hear call
+kuten sitä kutsutaan as it is called
+lääkäri kutsuu-soittaa-kysyä sinut the doctor will call-call-ask you
+
+ravintola order-register
 olen varannut täältä pöydän
+I have booked a table here
 toi ruokalistan-hampurilaisen-kasvisruokaa
+brought the menu-burger-vegetarian food
 Onko kurssilla vielä tilaa?
+Is there still room in the course?
 minä tilaan kaikille riisiä ja erilaisia pikkuannoksia
+I order rice and various small portions for everyone
 kai minä sitten syön pari jyvää
-voi niiku tai siis kai se
-tarjoilija toi kaikille puiset puikot-puikkoilla
+I guess I'll eat a couple of grains then
+voi niinku tai siis kai se oh so or so i guess it
+tarjoilija toi kaikille puiset puikot-puikoilla
+the waitress brought everyone wooden sticks with chopsticks
 eno ei ottanut puikkoja vaan käytti kynsiään
-kaikki haistelivat ja maistelivat uusia makuja-maistelemaan
+the uncle did not take the sticks but used his claws
+kaikki haistelevat ja maistelevat uusia makuja-maistelemaan
+everyone smells and tastes new flavors-to taste
 enokin innostui-onpa jännää erilaista
+Enok was excited — it's exciting
 aito ainutkertainen korvaamaton
-pidämme ruoasta
+genuine unique priceless
+pidämme ruoasta we like food
 voi olla ylpeä kuin keisari-rikkaus-rikkautta
+can be proud as emperor-wealth-wealth
 
-# give add want require endure
-antaa-mä annan teille-en anna-annoin-en antanut
+give
+antaa-annan teille-annoin-en anna-en antanut
 -lle isä antaa emmalle lahjan. gift
 
+add
 lisätä-lisäätte
+want
 haluta-haluan-en halua-halusin-haluaisin-en halunnut-te haluatte
+require
 ei vaadi ajatustyötä-kuitenti vaatii paljon keskittymistä
-kestää endure
+doesn’t require thought work — however it does require a lot of concentration
+endure take
+kestää
 
-# use go see practice find forget
-käyttää-käyn-minä käytän-en käytä-käytätte-niin käyttäkää ihmeessä
-käyn-käydään läpi-voidaan käyda-mitä mä käytän kielten opiskeluun
-ko tällä tavalla käytettynä tekee sittä kysymyksen
+
+
+use
+käyttää-käytän-käytin-en käytä-en käyttänyt
+käytätte
+visit go
+käydä-käyn-kävin-en käy-en käynyt
+niin käyttäkää ihmeessä so use it in wonder
+käyn-käydään läpi-voidaan käyda
+mitä mä käytän kielten opiskeluun what i use to learn languages
+ko tällä tavalla käytettynä tekee siltä kysymyksen
+whether used in this way makes it a question
+
+do
 tekemässä pari juttuu ennen
-kysyin-sä kysyt
-käydä lääkärissä
-kaikkien käytettävissä
-mistä voitte käydä katsomassa
-käytäntö
-en ite käytä appejä-kieli unohtuu aika nopeesti jos sitä ei käytä
+ask
+kysyin-sä kysyt I asked you
+käydä lääkärissä see a doctor
+kaikkien käytettävissä available to all
+mistä voitte käydä katsomassa where you can go to see
+käytäntö practice
+en itse käytä appejä I don't actually use apps
+forget
+kieli unohtuu aika nopeesti jos sitä ei käytä
 unohtaa-unohdan-en unohda
-käväisee ja panee askit
+walk
+käväisee ja panee askit walks and puts on the boxes
 kävi hyvä tuuri went well good luck
+find
+löyttää-löydän-en löyda-löysin-en löytänyt
+vaikee löytää hard to find
+vaikeasti ymmärrettävia ja monimutkasia difficult to understand and complex
 
-löyttää-löydän-en löyda-löysin-en löytänyt-vaikee löytää
-vaikeesti ymmärrettävia ja monimutkasia
-
-# need check mean like avoid feel think
-tarvitsen vielä sinun henkilötiedot lomake form
-kijoitan ja piirrän tiedo konnella information machine computer
+need
+tarvitsen vielä sinun henkilötiedot lomake I still need your personal information form
+kirjoitan ja piirrän tiedo konnella information machine computer
 tarvita-tarvi-tarvitsen-en tarvitse
+mean
 mikä tarkoittaa-mä en taaskaan tarkota
-tää ei siis tarkota yhtään mitään
-tarkotuksena oli siis
+tää ei siis tarkoita yhtään mitään so this means nothing at all
+tarkoituksena oli siis the purpose was therefore
+check
 hetkinen minä tarkistan
-siellä on vielä pari vapaa paikkaa
+siellä on vielä pari vapaa paikkaa there are still a couple of vacancies
+
+like
 mä tykkään-toivottavasti tykkäsitte
-tuntui hyvältä että ukki oli taas kotona
-välttämättömyys avoid less necessary
-tuntea-musta tuntuu että
-tunki nokkansa joka kupplin
+feel
+tuntui hyvältä että ukki oli taas kotona it felt good that grandpa was home again
+tuntea-musta tuntuu että it feels to me
+
+stuck
+tunki nokkansa joka kupplin stuck his beak in every bubble
 mietin-tajusin
 
-# put help play notice
-laittaa-mä laitan jonku videon pyörimään
-etta talleen vähän pyöri-ttelee
-auttaa-voinko auttaa minua-kuka-kaikki-joo, totta kai
-mennään tähän
-pelata-minä en pelaa-minä pelaan
+avoid
+välttämättömyys necessary
+
+put
+laittaa-mä laitan jonku videon pyörimään rotate I put someone on the video
+spin rotate
+etta talleen vähän pyöri-ttelee that she's a little spinning
+help
+auttaa-voinko auttaa minua-kuka-kaikki-joo, totta kai of course
+play
+pelata-en pelaa-pelaan
+notice
 huomaattee-huomaamattanne
 
-
-# move travel live happen regret recommend
+move
 tai muuttamassa suomeen-mä muutin
-muutamiseen-
+transform
+muuttamiseen
+move travel
 liikkua
+live
 asua-asun-en asu-asuin-en asunut
 se on viidesosa koko suomen asukasluvusta
-luvata promise
+it is one-fifth of the total population of finland
+
+promise
+luvata
+happen
 tapahtua-mitä tapahtui-tapahtuu-on tapahtunut-ei mitään-anteeksi
-mä pahoillani tästä valaistuksesta
+regret
+mä pahoillani tästä valaistuksesta I regret this lighting
+sit
 istua-istu tähan-seisoa
+recommend
 mä suosittelen-mä suosittelenki
 
-
-# lie pay buy finish reimburse support birth
-makaa sairaalassa aivan yksin
-ostaa-ostettuja-minä ostan-en osta
+lying
+makaa sairaalassa aivan yksin lying in the hospital all alone
+ostaa-ostettuja-ostan-en osta
+pay
 maksella-maksan-en maksa-maksaa jokaisesta alle
-maksetaan siitä ette opiskelee
-joten sen määrä vähän vaihtelee
+maksetaan siitä että opiskelee paid for studying
+vary exchange
+joten sen määrä vähän vaihtelee so its amount varies a bit
+rent
 vuokrat-vuokraan on tosi kalliita varsinki asua en lähellä
-mun kulutuksen mukaan
+The rent-in is really expensive especially to live close by
+
+pass
+kulute tunti one hour has passed
+mun kulutuksen mukaan according to my consumption
 han haluaa viikon kuluttua after the week passes
 vuoden vuokrasopimus ja kolmen kuukauden irtisanomisaika
+one year lease and three months notice
 vuokranantajalle-kämppä-kalustettu-huonekaluja
-täyskierros mun kämpästä
-valmistaa-valmiiks hankittu
-valmiina-katsella sivusta-minä vitsailen
-hinnat on aika lailla in luokkaa
-korvaa yksityislääkkeitä palkkioista
-tukea pienitulosille ruokakunnille
+landlord-cabin-furnished-furniture
+täyskierros mun kämpästä full tour of my cabin
+
+to prepare ready
+valmistan-valmistin-en valmista-en valmistanut
+valmistaa-valmiiksi hankittu prefabricated acquired
+valmiina-katsella sivusta-vitsailen ready-to-watch stand by-joking
+hinnat on aika lailla in luokkaa prices are pretty much in class
+replace
+korvaa yksityislääkkeitä palkkioista reimburse private medicines for fees
+tukea pienitulosille ruokakunnille support for low-income canteens
+birth
 syntyneestä-lapsen syntymän
 
-# study swap choose refresh take write love read watch
-# grow win can train
+study
 oppia
-opiskella-minä opiskelen-en opiskele-en opi niistä kauheesti
-vaihtaa-vaihdan-en vaihda-kielivaihtosivustoja
+opiskella-opiskelen-en opiskele
+en opi niistä kauheesti I don't learn from them terribly
+swap
+vaihtaa-vaihdan-en vaihda-kieli vaihto sivustoja language exchange sites
+choose
 valita-valitse oikea vaihtoehto-te voitte valita ne jotka
-vahän valihtelee
-virkistystä
-virkka-virkistää ihmeesti
-virallinen kieli
-viedä-vien teidät kaikki ravintolaan syömään
-kirjätta-kirjoittaa-minä kirjoitan-en kirjoita
-kuljettavat kirjeitä-luo ja viedä kirjeen
-sillä välin toiset piirsivät kortin ja kirjoittivat tervehdyksen
-rakastaa-rakastavat-ihailemme-kulta
-lukea-minä-mä luen-minä en lue-eli te vaikka luette
-katsella-minä katson-en katso-katsotaanpas-katon-täytyy kattoo
-kasvaa-kasvaa sit toisesta-oli mukava kasvaa siellä
-voittaa-
-voida-voin-te voitte
-harjoittelin-harjoitusvihko
+choose the right option — you can choose the ones that
+vahän valihtelee a little fluctuates
 
-# apply ask answer can would stay get after escape decide return
-tää pätee apply muihinki kotitöihin-tää patee mulle
-saada get emma saa isaltä lahjan a gift from
-viedä get vie
-ottaa take poliisi ottaa kuskilta ajokortin pois driver
-kysyä ask kysy opettajalta
-pyytää ask pyydän äidiltä rahaa
-tyyvainen pleased
-pyysin-pyytää aikalisä-soittaa aikatiedotukseen
-pyystyä can pystyisitkö auttamaan minua?
+virkistystä recreation
+virkka-virkistää ihmeesti crochet-refresh miraculously
+virallinen kieli Official language
+take
+viedä-vien teidät kaikki ravintolaan syömään
+I will take you all to the restaurant to eat
+kirjettä-kirjoittaa-kirjoitan-en kirjoita
+kuljettavat kirjeitä carrying letters
+luo ja viedä kirjeen create and export a letter
+sillä välin toiset piirsivät kortin ja kirjoittivat tervehdyksen
+meanwhile others drew a card and wrote a greeting
+love
+rakastaa-rakastavat
+admire
+ihailemme
+gold
+kulta
+read
+lukea-luen-en lue
+eli te vaikka luette even if you read
+watch
+katsella-katson-en katso-katsotaanpas let's see
+katon roof
+täytyy kattoo must be covered
+grow
+kasvaa-kasvaa sit toisesta grow on another
+oli mukava kasvaa siellä it was nice to grow there
+win
+voittaa
+voida-voin-te voitte
+train
+harjoittelin-harjoitusvihko Trainee-Training Booklet
+
+
+apply
+tää pätee muihinki kotitöihin this also applies to other household chores
+tää patee mulle This is true for me
+get
+saada
+emma saa isaltä lahjan get a gift from
+take
+viedä vie
+ottaa
+poliisi ottaa kuskilta ajokortin pois the police take the driver's license off the driver
+
+ask
+kysyä
+kysy opettajalta
+pyytää
+pyydän äidiltä rahaa
+tyyvainen pleased calm
+pyysin i asked
+pyytää aikalisä request overtime
+soittaa aikatiedotukseen call for time notification
+
+can
+pystyä
+pystyisitkö auttamaan minua?
 pystyyks se kääntaa can i turn it
+te vaan pystytte you just can
+sä pystyt käyttää sitä sujuvasti you will be able to use it smoothly
+
 
 stick to
-te vaan pystytte-joten ne pysyis mulla mielessä
-pysyä aiheessa-täysin aiheetta
-sä pystyt käyttää sitä sujuvasti
-sit sulle vastataan
-pääsee-päästään-pääsee hyvin kulkemaan julkisilla kulkuvärineillä
-julkinen liikenne ei toimi
-parin viikon päästä
-päässyt sairaalasta
-pääsiäistä-raitiovaunulla
+joten ne pysyis mulla mielessä so they would stay in my mind
+pysyä aiheessa stay on topic
+täysin aiheetta completely unreasonable
+sit sulle vastataan it will be answered for you
+
+access pass reached
+päästä
+pääsee hyvin kulkemaan julkisilla kulkuvälineillä
+is well accessible by public transport
+julkinen liikenne ei toimi public transport is not working
 pääsin sinne tanne i got there here
 päässyt tanne arrived
-päättää
-miettimään-miettiä päänsä puhki-tuskaillu näiden asioiden parissa
-palata
-palaako-minä en polta tupakka-ei, kittos
-palotarkastajakin-palotarkastus
+päästään
+päästä läpi get a pass
+parin viikon päästä After a couple of weeks
 
-# run hug join search drive think remember
-juoksi halaamaan häntä-molemmin käsin-onnellista
-tyttö juoksee
-etsin lämmintä sydäntä
-ajattelin
-hän ajaa kouluun pyörällä
-te ajatte autolla
-ketä sinä ajattelet
+päässyt sairaalasta escaped from the hospital
+pääsiäistä easter
+raitiovaunulla by tram
+
+decide
+päättää
+miettimään to think about
+miettiä päänsä puhki agonize out
+tuskailu näiden asioiden parissa pain in these matters
+
+palata return
+fire
+palaako smoke
+minä en polta tupakka-ei, kittos
+palotarkastajaksi as a fire inspector
+palotarkastus fire inspection
+
+run
+juoksi halaamaan häntä ran to hug her-him
+molemmin käsin both hands
+onnellista happy
+tyttö juoksee the girl is running
+etsin lämmintä sydäntä I'm looking for a warm heart
+
+think
+ajatella
+ajattelin I thought
+hän ajaa kouluun pyörällä she rides her bike to school
+te ajatte autolla you drive a car
+ketä sinä ajattelet who do you think
 minä olen ajatellut viedä teidät ulos syömään
-liity-liityen-liitytään hakemusksella
-liittyy-yhdistää-sovittää yhteen-pahentaa merkitykset
-haku-hakuprosessit ja lomakket-kannatta hakea
-mun loman aikana
+I have been thinking of taking you out to eat
+
+join
+liity-liityen related
+liitytään hakemuksella joined by application
+liittyy yhdistää join-connect
+sovittää yhteen reconcile
+pahentaa merkitykset exacerbate the meanings
+
+search
+haku
+hakuprosessit ja lomakkeet application processes and forms
+kannattaa hakea worth applying for
+mun loman aikana during my vacation
+
+remember
 muistaa-muistan-en muista
 
-# gather tell try organize
-keränny-keräsin omenan siemaniä yrittääkseni kasvatta omenapuita takapihallari
+gather
+keränny
+keräsin omenan siemaniä yrittääkseni kasvatta omenapuita takapihallari
+I gathered and collected apple seeds to try to grow apple trees in the backyard
 joka kai kasvattaa puustoa i guess grow from trees
+
+tell
+kertoa-kerron-kerroin-en kerro-en kertonut
 kertoa-tai kertokaa mitä te
-mä aion kertoa teille-kerro enemmän-hän kertoo keksinnöstään
-minä keksin
+mä aion kertoa teille I'm going to tell you
+kerro enemmän tell more
+vietetään juhla celebrate
 mä kerron nyt millä tavalla suomessa vietetään laskiaista-juhla
-meillä on ylipäätään on tällanen järjestelmä
-yritän-yritain-yrittäkää järjestää kerran pari viikossa-te ite ootte järjestäny
+I will now tell you how the Feast of Countdown is celebrated in Finland
 kerrata iterate review
+
+invent
+keksiä
+hän kertoo keksinnöistään he talks about his inventions
+minä keksin I invented
+
+try
+yritän-yritain
+yrittäkää järjestää kerran pari viikossa
+try to hold once a couple of weeks
+te ite ootte järjestäny you are waiting organized
+heal
 mä yritän parantaa-paranee-parantuu
-on just parkannut
+on just pakannut packed
+meillä on ylipäätään on tällanen järjestelmä
+we generally have such a system
 
-# waste alienate exit sunset
+waste lose
+hukata
 hukate-hukkaan-en hukkaa
-huvipuisto-ilo-huvi-onnistuminen
-vieraantua
-poistua
-laskee-aurinko jo laskee-auringonlaskun
+huvipuisto-ilo amusement park huvi pleasure amusement
+onnistuminen success
+vieraantua alienate
+poistua exit
+set
+laskee
+aurinko jo laskee the sun is already setting
+auringonlaskun at sunset
 
-# regular expressions
-salainen aapinen
+regular expressions
+salainen aapinen secret monkey
+aatelin nobility
 
-aatelin
-anoa
+ask plead apply for
+anoa-anon-anoin-en ano-en anonut
+believe
 arvella
-arvata guess kuten arvata saattaa as one might guess
+guess
+arvata
+kuten arvata saattaa as one might guess
 avaa open
 delata(die)
 elää
@@ -654,12 +826,13 @@ kaatuu is tripped falls
 kantuu carrys
 kehittyä
 korottaa raise trundle
-kulkea pass go travel
+kulkea to go kuljen-kuljin-en kulkje-en kulkenut
 kosketus touch
 kutsunut called
 kaataa maitoa pour milk
 kantaa tarjotinta carry a tray
 kaatua-kaatuminne syksy fall
+karahteerata to characterize karahteeraan-karahteerasin-en karahteeraa-en karahteeraannut
 sipuli sipisi whisper
 salaatti supiri supista murmur
 porkkana paapatti paapattaa rattle
@@ -681,7 +854,7 @@ myydä
 muodostaa
 napata
 nousee rises
-omata
+omata to own omaan-omasin-en omaa-en omannut
 ohittaa
 osua
 oleskella
@@ -696,7 +869,7 @@ pyöräilee cycling
 rakentaa
 rikkoa
 rippuen
-riistää
+riistää deprave riistän-riistin-en riistä-en riistänyt
 saattaa might
 seurata
 snaijata(understand)
