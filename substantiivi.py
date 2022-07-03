@@ -252,10 +252,183 @@ kassa-möyjä sales registers
 sovitus-koppi fitting booth
 jonotus-numero queuing jono in line
 
+kärsi vällisyys palkitaan patience will be rewarded
+kärsi vällisyys ttä patience abundance
+maltti patience
+ei ole vahvuutesi strength
+rauhoitu take it easy
+se selvää
+
+hyvää kesää lomaa nähdään elokuulta
+lipun juhla flag celebration
+suku perhe family
+jääkiekkoa ice hockey
+itsenäinen independence
+virallisset kielet official
+tieto kilpailu quiz
+
+kauppa myymälä liike  marketti putiiki shop
+ostaa myyn myyja
+-eeseen liikkeeseen huoneeseen -eessa -eesta
+menen kauppaan käyn kaupassa
+menen ostamaan ruokaa käyn lauantaina ostoksilla shopping
+menen nukumaan
+maksan ostokset pankkikortilla
+mitä maksaa
+
+ruuhka traffic
+hukkuminen drowning
+pakaste allas freezer
+
+kuitti receipt annan raha vastatan ottan
+hintalappu price tag
+kappale hinta unit price
+vertailu hinta reference price
+sokeriton suger free
+rasvaton non fat
+laktoositon lactose free
+
+korva kaula sormus koru ear neck ring jewel
+halpa kallis cheap-expensive
+lähellä kaukana near far
+saisinko saanko halaun please
+jauhelihaa minced puuteri power
+tuleeko tuliks muuta lisää more
+oliko onko se ole
+voinko auttaa apua
+katselen browsing scouting around
+kuule here listen
+tarkistan koneelta check the pc
+on meillä we have it
+niin on kyllä on yes
+otan tämän take it
+heippa hei hei
+aski tupakka ja sytkäri small pkg of cigarette
+12 egee euroa tossa
+väärä hinta oikea wrong
+mä korrjaan sen fix
+
+heränyt-petaa peti-mene vessan-pese käset kasvot hampaat
+harjaa hiuset-pue vaatteet-syö aammupala
+tarkista reppu-lähden koulun
+
+vastaanottokeskus reception center
+
+partitiivi
+vähän tai paljon osa ei yksi ei kaikki
+kesken ei valmis loppu
+syön kakkua omenaa omenan finish it all omenat kaikki
+
+mitä ketä kuka millaista millainen
+
+1. numero tai määrä amount
+kenkäpari kenkää 2 poikaa
+monta pari puoli
+
+2. partitiiviverbi
+puhua suomea
+opiskelet englantia
+haluasin opiskella tekniikkaa
+käytätkö sä tietokonetta joka päivä entä nettiä
+katsomme televisiota
+pojat pelaavat jalkapalloa leikkiä ottelun match
+soitan pianoa puhlimella radiolla
+odotamme bussia pysäkillä
+harrastaa harrastavat usein urheilua hobby
+autat minua voitko sä auttaa minua
+rakastan sinua rakastaa omaa pientä lasta
+pelkää tuota vihaista koiraa
+kova kuori ainen beetle shell
+lainata borrow vaihtaa change
+vihaan talvea kylmää ja pimeää hate
+inhoan kylmää vettä dislike
+etsii avainta joka aamu key
+kunnioitan isoisää respect
+kuunteletko sä paljon musiikkia
+
+
+sija muoto case-place form
+koulun genetiivi possesion or association
+koulussa always
+koulusta ulos
+kouluun to in
+koulua v. partitiivi
+koulla on once twice
+
+3. keskan ei valmis ei loppu
+luen kirjaa kirjan
+pesee lattiaa
+
+4. negatiivinen lause
+ei ole autoa
+en osta uuta takkia jackets
+
+huoneeseen to the room
+huomisen see u tmr
+
+-a ä
+yksi vokaali
+rahaa passia palloa pöllöa kynaa pen öljyä oil
+
+-ta ä
+toinen kaksi vokaali tai konsonantti
+suklaata teetä työtä maata avainta askelta pimeää
+houm ei -ia -ea -eä -ei
+
+-tta ä
+yksi e
+tietokonetta ammetta bathtub venettä hametta skirt huonetta
+ee -- ä
+
+millainen + mika
+kivaa pitään mukavaa
+
+appelsiinia
+kävella kävelen askelta
+asun asuntoa
+estin avainta
+täytän bensaa
+hammasta
+syön hilloa raha mehilainen bee hunajaa bee
+huonettä
+kaakaota
+kahvia
+kaiutinta puhuja speaker
+luen kirjaa
+konetta koulua
+kakkulapio shovel
+kyynelttä teardrop kynsi nail
+laitetta device
+lammasta sheep
+limsaa soda pop
+maitoa
+morsianta bride
+omenaa
+seivon parveketta balcony
+perhettä torstaita
+odotan perjantaita
+porrasta step corridor yläs aläs
+odotamme päätöstä decision
+pöytää table suklaata teeta tuolia
+kuutelen radiota
+varvasta jalkan sormi kasi
+
+torvovasti oikein
+hyvää lämmintä ja onnellista kesää sinulle
+nähdään elokuussa
+
 
 '''
 
 
 
 
+
+
+
+
+
+
+
+# end
 # end
