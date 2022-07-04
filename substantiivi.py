@@ -106,15 +106,71 @@ meidän opettajamme teidän kotimaanne heidän kurssinsa
 
 minkänäköinen hän on
 Hänellä on pitkä vaalea blond kalju bald
-suora-kirhara straight-curly tukka hair
+suora-straight-kihara curly tukka hiukset hair
+menen suoran
+ihoon skin
 siniset vihreät ruskeat silmät ja silmälasit
-ruskea leipä brown harmaata grey
-kaunis nätti hyvännäköinen
-hoikka slim
-parta viikset komea
+piilolinssit contact lenses
+sievä-nätti-kaunis-hyvännäköi pretty
+nahka leather laukku bag lengät
+ruskea brown leipä  harmaata grey
+laiha thin hoikka slim tukeva sturdy lihava fat ylipainoinen overweight
+kalju bald parta beard viikset mustache komea
 lyhyt tumma dark
-tukeva sturdy
-söpö-suloinen
+lamminsöydan
+söpö-suloinen sweet
+keskipituinen medium height
+kasvot kapeat narrow pyöreat
+
+värit
+valkoinen rauha peace hautajaiset funeral kukkia flower
+punainen vaara wrong veri verta blood
+sininen taivas kaikki usko
+keltainen mustasukkainen kateellinen jealous
+musta suru grief lyöda mustelma bruise
+ruskea tumman-vaalean
+harmaa grey hopean silver lähti bay
+liila lilac violet
+beige pale sandy
+puunvärinen wooden
+
+väritön colorless
+
+suku suklaiset perhe perheen jasen members
+rakkaalle lapsella on monta nimea a dear child has many names
+kummi godfather sponsor
+aitinaiti isä isänäiti
+isovanhemmat grandparents
+isoäiti isoisä mummi mummo vaari ukki
+täti aunt eno äitinveli setä isänveli uncle
+isapuoli stepfather
+lapset lasta grandchildren
+toinen pikku serkku second little cousin
+vauva ryömiä crawl
+
+avioliitossa naimisissa married
+kihloissa engaged morsian bride sulhanen groom
+eronnut divorced
+leski widow yksinhuoltaja lemmikki
+kumppani partner puoliso spouse
+työtön etsin töitä unemployed
+sairaseläkkeellä on sick leave
+
+possesion association
+genetiivi -n kenen jonka whose
+a part of
+partitiivi -a -ta mitä ketä
+monikko -t kakki
+
+seisaus stop
+pittus length pisin longest
+moisio.fi auringon nausee laukee
+hämäran kesto twilight duration
+ajantasaus time alignment
+nukyan sleep
+muutenki btw
+juhannus keskikesän juhla
+juha juhani juhannes kostajan päivä the avenger
 
 tasolle kaski level two
 väsynyt kiireinen busy kalli pricey
@@ -417,6 +473,31 @@ torvovasti oikein
 hyvää lämmintä ja onnellista kesää sinulle
 nähdään elokuussa
 
+vaatekaupassa
+farkkutakkia denim jacket farkku jeans
+etsii katselen look for
+rauhassa in peace myöhemmin later
+mieluummin teen ennemmin kuin myöhemmin
+I'd rather do it sooner rather than later
+ällää l ämmä m äx x ässä s
+kassi pussia bag
+näin thus
+puseroa sweather blouses
+voinks mä sovitta tätä
+hame mekko dress
+uimapuku suit
+rintaliivit bra chest vest
+alushousut kalsarit long johns
+huivi kaulaliina scarf pipo cap
+solmio tie vyö belt
+sateenvarjo shadow umbrella
+
+mitä sulla-teillä on päällä
+mä on päällä farkut
+raidallinen striped
+villapaita sweater
+ruskeat kengät ja
+päässä ruudullinen checkered pipo
 
 '''
 
@@ -430,5 +511,4 @@ nähdään elokuussa
 
 
 
-# end
 # end
