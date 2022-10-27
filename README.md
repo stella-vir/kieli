@@ -1,2 +1,1 @@
-# languages
-suomi n norsk
+suomea ja norsk -
