@@ -8,28 +8,38 @@ välttämättä tunne tätä oppi misanetodia jota mä kättän mun
 ensimäisessä videossa mä selitän vähän miten tää toimi ja mikä
 näiden videoidan tarkoitys se on mutta musta tuntuu että on
 aika vähän valotta tätä asiaa kaikki mita mä sanon siinä johdanto
-videossa pitää siis vielä paikkansa mutta kumä katon sitä niin
+videossa pitää siis vielä paikkansa
+mutta ku mä katon sitä niin
 ensinnäkin mua niin sääliltää itteni ja teissä videossa mä haluun
 selittää teille vähän paremmin miks ja miten te voitte käyttää mun
 videota suomen keilen oppimiseen eli tää ei oo mun keksintö vaan
-ihan oikee teoria toisen kielan oppimiseen ma oon lukenu tästä
+ihan oikee teoria toisen kielan oppimiseen
+ma oon lukenu tästä
 aiheesta ja ma oon ite käyttäny tätä menetelymöö muiden keilten
 oppimiseen joten mä voin aika luottavaisin mielin sanoa että tää
 todellakin toimii ja se miten me opitaan kieltä kouluissa on
 erittäin tehotan tapa ja vaikka mä saanki tästä vihat päälenni
-niin ei, sun ei tarvi alotta kielen opiskelua kieliopista ja
+niin ei,
+sun ei tarvi alotta kielen opiskelua kieliopista ja
 itse asiassa ma suosittelen että sä et todellakaan tee niin tää
-kieliopin kaikkivoipaisuus on niin aatominaikainen uskomus mutta
+kieliopin
+kaikkivoipaisuus-om'nipotence
+on niin aatominaikainen uskomus
+
+mutta
 ku mä puhun tästä niin musta tuntuu ku mä olisin antiikin ajalla
 ja sanoisiu etta maapallo on pyöyeä eli tän oppimismetooin mukaan
 kielen oppiminen tapahtuu ymmäarrettävoin sisällön avulla
 käytännössä tää tarkorttaa sitä että sä kuuntelet sellasta materiaalia
-joka on yhen askeleen sun tasoa korkeemmalla eli sä ymmärrät siitänoin
-seitkytviis prosenttia joten sun oppiminen ei perustu sääntöihin
+joka on yhen askeleen-steps sun tasoa korkeemmalla eli sä ymmärrät siitänoin
+seitkytviis prosenttia joten sun oppiminen ei perustu
+sääntöihin-rules
 tai ulkaa opetteluun vaan viestien ymmärtämiseen ja tän takia
 mä laiten kaikin videoihin tekstitykset sekä suomeks että englanniks
 alussa kun teillä ei oo vielä paljon sanastoa kuitenki seuraamaan
-mitä mä sanon ja yhdistää mielessä sanan sen tarkoitukseen
+mitä mä sanon ja
+yhdistää-compound
+mielessä sanan sen tarkoitukseen
 ta menetelmä perustuu hyvin vahvasti toistoon eli samalle
 tavalla kun miten lapset oppii kieltä myös te toisten avulle
 alatte ymmärtää yhä enemmän sen takia sun tulis kattoa yhtä videota
@@ -37,21 +47,26 @@ toistuvasti niin kavan että sä ymmärrät sen seitkytviis prosenttia
 ja mun videot on lyhyitä just tän tokia että sa pystyt käyttaa
 kakskyt minuutia sun päivästä ja katto yhen violeon viiskertaa
 pässä ajassa sä todennäköi sesti jo ymmärrät suurimman osan
+
 mitä mä sanon sa muistat miten ne sanat lausutaan ja sä ehkä
 osaat jo toistaa jotain lauseita sun päässäs senraavanan paiväna
 sa katot saman videon ja ymmärrät löhes kaiken ehkä parin kerran
-jälken ja kun sä edenet sun opinnoissa sä huomaat ettasun täytyyki
+jälken ja kun sä edenet sun opinnoissa
+sä huomaat ettasun täytyyki
 katto yksvideo vaan kolme kertaa mä puhon näissa videoissa
 yleensä tosi hitaasti ja seuraava askel onki sit ymmärtää
 nopeesti puhuttaa kielta auttaakseni teitä tälle seuraavalle
-tasolle ma laitan aina nopeet versiot mun videoista mun patreon
+tasolle.
+ma laitan aina nopeet versiot mun videoista mun patreon
 sivastolle se on siis sama sisalto mutta nopeemin puhuttu
 joten teilla onse teksi kirjallisena ja te voitte seurata
 sita samalla ku te kuuntelette taa auttaa teitä huomattavasti
 pääsemään sitä seuraavalle tasolle joka on tavallisten suomalaisten
 videoiden ja potien kuunteleeminen koska kun suomea phhutaan nopeesti
 niin kaikkä kirjaimia ei lausuta joten tää ei oo ihan sama asia
-ku jos sa kuuntelet mun videon mutta vaan kaksin kertaisella
+ku jos sa kuuntelet mun videon
+
+mutta vaan kaksin kertaisella
 nopeudella vaikka y-ssa mä laitoin ihan varta vasten ton patreonin
 kuukausi maksun tosi alhaseks koska mä todellakin yammärran että
 teillä ei vältlämätta oo varaa tai te ette halua käyttää rahaa

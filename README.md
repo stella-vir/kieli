@@ -1,1 +1,1 @@
-suomea ja norsk -
+suomea og norsk
