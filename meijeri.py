@@ -76,7 +76,9 @@ joutua -end up
 kiertää sit naapurustossa ovelta ovelle -around
 pitkää ikää -age
 yllätys pelotella -scare
+pelko -fear
 se pelasti äidin -save
+hän pelaa yhä peliä -play
 ettei loiskuta vettä joka puolelle -splash
 loskaisen kelin -slushy weather
 täällä sais olla kumpparit jalassa tällasella säällä -wellies on the feet
@@ -117,7 +119,8 @@ maanjäristykseen earthquake
 niin tuntuu siltä, että se kestäisi ikuisuuden -last forever
 kerkiää myös miettii emerge
 katto rupee romahtamaan -the roof starts to fall off
-välillä between
+välillä -between
+Tuttu -familiar
 kun ehtii tottuu -get used to it
 mihin on tottunu -what is it used to
 pysyvästi permanently
@@ -178,6 +181,12 @@ parisuhde relationship
 se tulee sitten kun tulee
 ja jos ei tuu, kyl se tulee -it will come
 
+
+# lokakuu kolme kyt
+tyyni ilma ja taivas heijastuu tosi -serene reflect
+tienaan nii hyvin -earn
+jos haluut menestyä, -succeed
+pitää tehdä töitä sen eteen  -work for it
 '''
 
 
