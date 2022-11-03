@@ -5,6 +5,7 @@ ja vaikka nykyään monessa työpaikassa
 ei vaadita suomen kielen osaamista
 niin on kuitenkin hyvä pystyä käydä
 työhaastattelussa suomeks
+
 netistä löytyy tosi paljon vinkkejä
 miten selviytyä hyvin työhaastatteluista
 joten mä en keskity tässä videossa siihen
