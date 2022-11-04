@@ -187,6 +187,27 @@ tyyni ilma ja taivas heijastuu tosi -serene reflect
 tienaan nii hyvin -earn
 jos haluut menestyä, -succeed
 pitää tehdä töitä sen eteen  -work for it
+
+# marraskuun neljäs
+millaisen lounaan sinä syöt -what kind of
+mitä sinä syöt lounaalla -what for
+missä sinä syöt lounasta -where for
+saisinko kuittauksen
+loppupäivä -the rest of
+ei tule kysymykseenkään -out of question
+voisitteko toistaa -repeat
+saisinko laskuun
+-isi-
+kysyisin
+olisiko
+enpä taida nyt -think
+veisin perheen pitkälle matkalle
+viedä-veisi
+etkö jäisi kuopioon
+arvatkaa guess
+milla summalla -amount
+ostaisin asunnon ja auton
+en ostaisi autoa-asuntoa
 '''
 
 
