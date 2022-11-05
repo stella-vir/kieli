@@ -208,6 +208,18 @@ arvatkaa guess
 milla summalla -amount
 ostaisin asunnon ja auton
 en ostaisi autoa-asuntoa
+
+# marraskuun viideltä
+
+valinta -choice
+ahkera -hard working
+tietysti -tietenkin -of course
+yksittäinen -isolated
+vahingossa -accidentally
+viihdytävä -entertaining
+
+pistorasia ei toimi
+sähköt ovat poikki koko huone-asunto
 '''
 
 
