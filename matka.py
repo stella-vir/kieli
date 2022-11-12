@@ -1,4 +1,3 @@
-'''
 moi kaikki, oon just pakannut,
 matka on kohti koreaa
 ja joo oon nopeasti vaan tekemässä
@@ -8,7 +7,8 @@ vihreä tee seerum
 eli tää on tehty koreassa
 ja sen takia mä laitan sen nyt päälle
 että laiten tätä mun korea matkaa varten
-tää on joku jeju sinnekin mä oon menossa varmaan
+tää on joku jeju saari
+sinnekin mä oon menossa varmaan
 mun loman aikana
 mut joo vähän virkistystä
 ennen koneeseen menoa
@@ -46,8 +46,7 @@ mä näytän sen ihan kohta
 tuonne ylöskin voi mennä
 se on tämmönen katos alue
 mut joo mulla-oli suomesta lento
-muncheniin niin se oli noin
-kahden tunnin lento
+muncheniin niin se oli noin kahden tunnin lento
 sit sieltä mulla-oli
 ihan hirveen nopea vaihto
 suolin lennolle
@@ -67,16 +66,17 @@ parin päivän sisallä tänne
 sit mä hain mun sim-kortin
 mä olin varannut auton joka ajaa mut tänne mun airbnbhin
 koska se soulin lento oli niinku yön yli lento
-niin mä tulin tänne aamulla, niin mä vähän niinku missasin yön unen
+niin mä tulin tänne aamulla, niin mä vähän niinku myöhästyin-missasin yön unen
 et mua väsyttää hirveesti
-mut check-in on kello kolme
+mut ilmoittautua-check-in on kello kolme
 ja nyt on ehkä vähän vaille kaks
 mä tulin jo tänne
 mä päästiin tänne niinku kello kakstoista kolkyt
 et joo, mä oon tällä katos-alueella
 täällä oon vaan pystyny lukee
 ja kattoo näitä hienoja kukkia
-ruusuja tuolla mut joo väsyttää ihan hirveesti
+ruusuja tuolla
+mut joo väsyttää ihan hirveesti
 mun pitää vielä käydä etii tämmönen covid testipaikka
 kun mun pitää ottaa PCR testi tässä komen päivän sisällä
 kun mä tuun tänne
@@ -106,7 +106,7 @@ mä en ees-even oo siellä
 mä oon tuolla joen äärellä
 mut sitten kuitentin se laukku
 laitettiin mun oven eteen
-ja mun kaveri jonka-kaa olin seillä joella
+ja mun kaveri jonka-kaa olin siellä joella
 se oli niinku hei korea on aika turvallinen paikka
 että jos ne laitta sen matkalaukun oven eteen
 nii ei kukaan sitä ota siitä
@@ -122,6 +122,8 @@ vieläkin tää aikaero painaa mua
 viime yönä menin nukkumaan kuudelta aamulla
 eli suomalaiseen aikaan keskiyöllä
 
+
+/*----------------------------------*/
 mut joo mulla on kaksi kaappia
 sitte tota niin tämmönen yks iso sänky
 tässä on mun pyyhe
@@ -230,7 +232,7 @@ mulle myös toi lähetti mulle siinä ihoon paketti
 suomeks silmävoide
 eli tämmöstä silmävoidetta
 mä laitan mun silmien ympärille
-ja tää sanoo että 'pidä silmäsi eloisina'
+ja tää sanoo että 'pidä sun silmäsi eloisina'
 eli tää on myös 'tehty koreassa'
 tääki on tehty koreassa
 ja koska oon koreassa mä haluun käyttää korealaisia voiteita
@@ -275,7 +277,7 @@ et saanks mä musta selvää
 et höpisenkö jotain outoja
 mut oo mä lopetan tän tähän ja joo nähään ensi videssa
 moikka
-'''
+
 
 
 

@@ -1,3 +1,4 @@
+
 Se on maailmankaikkeuden tapa sanoa, että se on väärin! Ajattele syvästi, ei, syvemmälle.
 It’s the universe’s way of saying sth’s wrong! Think deep, no, deeper.
 

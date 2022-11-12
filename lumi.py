@@ -1,6 +1,6 @@
-'''
+
 moi, tässä on kauan odotettu lumivideo.
-mä oltiinkin täällä pietarsaaressa tosi onnekkaita,
+mä olinkin me oltiinkin-were täällä pietarsaaressa tosi onnekkaita,
 koska me saatiin tänä vuonna valkea joulu.
 eli kuten näkyy niin lunta on aika paljon tänä vuonna.
 se on tosi kiva juttu.
@@ -14,10 +14,12 @@ et sit ku se on märkää
 niin siitä pystyy tehä kaikenlaisia juttja
 ja lumihiutaleet ihan oikeesti on sellasia
 lumihuitaleen näkösiä ja kaikki niistä on erilaisia
+
 ja mä aattelin kertoo teille nyt
 lumen hyvät ja huonot puolet
-mä sain tän idean yheltä teistä
+mä sain tän idean yheltä-yhdeksältä teistä
 joten kiitos siitä
+
 alotetaan huonoista puolista
 ensinnäkin, lumi on liukasta ku se sulaa
 eli jos ensi sataa lunta
@@ -30,12 +32,13 @@ tasanen tai ei niin tasanen jääpeite -flat
 ja mä oon niin monta kertaa
 kaatunu pyörällä talvella
 vaikka mulla olikin talvirenkaat pyörassä
-ja monet sit käyttaaki sellasia tavallaan piikejä -spikes
+ja monet sit käyttaaki sellasia-such tavallaan-kind of piikejä -spikes
 jotka laitetaan kenkiin,
-että se estäis liukastumisen ja kaatumisen
-myös autolla ajaminen voi olla vaarallista
-tuolla meidän lähellä on yks mutka -curve-bend
+että se estäis-prevent liukastumisen ja kaatumisen
+myös autolla ajaminen voi olla vaarallista-dangerous
+tuolla meidän lähellä on yks mutka-curve-bend
 jossa on joka talvi joku siellä ojassa -ditch
+
 lumen toinen huono puoli on se,
 että sitä on yleensä paljon
 ja pitaa sit tehdä lumityöt
@@ -51,9 +54,9 @@ ja jotenki tuntuu siltä
 että aura-auto on aina odottamassa
 siellä kulman takana
 niin heti ku kaikki on saanu lumityöt tehtyä
-niin aura-auto tulee ja pukkaa
+niin aura-auto tulee ja työntä -pukkaa-push
 sellaset isot kasat siihen oven eteen
-mutta täytyy sanoa että suuri rispekti
+mutta täytyy sanoa että suuri kunnioi ttaminen-rispekti
 kyllä lumiauraajia kohtaan
 ne joutuu joskus keskellä yötä
 heräämään auraamaan teitä -wake up to plow the road
@@ -65,12 +68,14 @@ me osataan käsitellä sitä
 joskus tietenkin jotku bussit saattaa
 olla vähän myöhässä lumen takia
 mutta yleensä kaikki toimii tosi hyvin
+
+
 sitten lumen hyviä puolia
 ensinnäkin se, että se on tosi kaunista
 ja yleensä marraskuun pimeimpinä hetkinä
 niin on tosi ihanaa kun tulee se ensilumi
 koska se valaisee tosi paljon
-eikä sit tunnu enää niin synkältä ja pimeeltä
+eikä sit tunnu enää niin synkältä-gloomy ja pimeeltä
 ja kuten näette niin kaikki puut on lumisia
 täällä on tosi kaunista nyt
 ihana ilma oikeesti

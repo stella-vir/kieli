@@ -217,9 +217,66 @@ tietysti -tietenkin -of course
 yksittäinen -isolated
 vahingossa -accidentally
 viihdytävä -entertaining
+viihdytkö -enjoy
+kehittynyt -advanced
+työkaluja -tools
+merkitys -importance
+myrkyttää -poison
+tapana -habbit
 
 pistorasia ei toimi
 sähköt ovat poikki koko huone-asunto
+
+ei ole koskaan
+ne ei löydä suonta-vein
+alkaa ronkkiminen-probing ja se sattuu
+kerran melkein pyörryin-faint
+kun se hakkas-jab mua sillä saatanan piikillä-needles
+
+Revontulet syntyy siis aurinkotuulen kantamien-carried
+varautuneiden-charged hiukkasten osumisesta-collision
+magneettikehään.
+
+# marraskuun kuudeltä
+vaalia -cherish
+ennakkoluulo -prejudice
+mausteinen -spicy
+ahdistava -anxious ahdistusta -anxiety
+kilpailu -competition
+ollaan rohkeita nyt -be brave
+rohkea -brave
+olla valittamatta -to complain
+rauta -iron
+rauhallista -peaceful
+rento -relax
+esittäydytäänkö -introduce
+ketä olette
+laidasta -side
+
+mitä sä pystyt tekemaan
+anne sille tauko
+
+nopea-ahkera-aktiivinen-tehokas-puhelias-hiljainen
+sosiaalinen-seurallinen-auttavainen
+huolellinen-tarkka-täsmällinen-järjestelmällinen
+rohkea-itsevarma-itsenäinen-oma-aloitteinen
+rauhallinen-kärsivällinen-hermostu-joustava-flexible
+luotettava-rehellinen-taiteellinen
+luova-kekseliäs-motivoitunut-oppimishaluinen
+vahva-urheilullinen-
+työntekijä-opiskelija
+
+minä haluasin kysya onkö minun tili  valmis ja pysynks vaihtaa osoitte
+
+# marraskuun kaheksandeltä
+tormättiin-crashed muutaman kerran sattumalta
+ja sitten napsahti-clicked
+
+# marraskuun kaheksandeltä
+Ei tullut edes mieleen
+
+# marraskuun kuudeltä
+oon sille velkaa -owe
 '''
 
 
