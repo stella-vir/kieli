@@ -66,12 +66,13 @@ parin päivän sisallä tänne
 sit mä hain mun sim-kortin
 mä olin varannut auton joka ajaa mut tänne mun airbnbhin
 koska se soulin lento oli niinku yön yli lento
-niin mä tulin tänne aamulla, niin mä vähän niinku myöhästyin-missasin yön unen
+niin mä tulin tänne aamulla, niin mä vähän niinku
+myöhästyin-missasin yön unen
 et mua väsyttää hirveesti
 mut ilmoittautua-check-in on kello kolme
 ja nyt on ehkä vähän vaille kaks
 mä tulin jo tänne
-mä päästiin tänne niinku kello kakstoista kolkyt
+mä päästiin tänne niinku kello  12:30 kakstoista kolkyt
 et joo, mä oon tällä katos-alueella
 täällä oon vaan pystyny lukee
 ja kattoo näitä hienoja kukkia
@@ -173,7 +174,7 @@ mitä sä pystyt tekemään
 
 nyt on seuraava päivä jo
 vieläkin sanoisin että tää aikaero on vähän vaikee
-mä menin nukkumaan vasta-only klo kaks
+mä menin nukkumaan vasta-only kello kaks
 ja heräsin viideltä
 en tiedä miks mä nyt en saa nukuttua niin hyvin
 mut jotenkin nyt tää on vähän tää aikaero
@@ -183,7 +184,8 @@ nyt ku tää aikaeero on ollut tämmönen
 vähän ongelmellinen juttu mulle
 yesstyle läheti mulle tämmönsen
 eli tämä laitaan kasvoille
-sitten ootetaan 15-viiva 30 minuuttia sitten se niin kun otetaan pois
+sitten ootetaan 15-viiva 30 minuuttia
+sitten se niin kun otetaan pois
 ja tää on tehty koreassa
 eli koska mä oon koreassa nyt
 mä käytän korelaisia tuotteita

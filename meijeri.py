@@ -275,8 +275,24 @@ ja sitten napsahti-clicked
 # marraskuun kaheksandeltä
 Ei tullut edes mieleen
 
-# marraskuun kuudeltä
+# marraskuun yheksandeltä
 oon sille velkaa -owe
+mistä leipänsä tienaa -earns its bread
+oon nukkunut pois univelkoja
+
+# marraskuun kolmetoistä
+tyyny -cushion
+patja -mattress
+mausteena -spicy
+chilikastikkessa -source
+makeassa -sweet
+hapan -sour
+mustikka mansikka -berry
+olin kyllästynyt -bored
+kärsivällisyyttä -patience
+hämmentävä -confusing
+sytytää-sammuttaa valot -turn on-off 
+vielä kerran -one more time
 '''
 
 
