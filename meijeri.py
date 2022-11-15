@@ -291,8 +291,24 @@ mustikka mansikka -berry
 olin kyllästynyt -bored
 kärsivällisyyttä -patience
 hämmentävä -confusing
-sytytää-sammuttaa valot -turn on-off 
+sytytää-sammuttaa valot -turn on-off
 vielä kerran -one more time
+näköjään -apparently
+Minusta minut olisi parempi
+kuin mua tuohon -from that pelastaa kohtaan -save myself
+
+# marraskuun neljatoistä
+jouduin  -have to
+täytyy -have to
+jaksaa -can
+pystyä -can
+
+# marraskuun viisitoistä
+älä ota sitä henkilökohtaisesti -personal
+utelias -curious
+vertaat -compare
+sähkö muuttui tieteellisestä uteliaisuudesta -scientific
+nykyaikaisen elämän olennaiseksi työkaluksi -essential
 '''
 
 

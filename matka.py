@@ -56,7 +56,7 @@ sitten se-oli 11 tunnin lento
 tänne souliin munchenistä
 ja sitten kun me päästiin-got sinne
 tai kun me pääsin-arrived tänne souliin
-tai minä pääsin ma tulin ite tänne souliin
+tai minä pääsin mä tulin ite tänne souliin
 mun laukku ei-ollu kerennyt mun lennolle
 eli mulla ei nyt oo laukkua
 okei mun piti tehdä kaikki niinku täyttää papereita
@@ -133,7 +133,7 @@ sitte tässä on mini keittiö
 tässä voi kokkailla vähän
 astioita täällä
 ne on antanut mulle joitain kokkaus välineitä
-tos on pieni mikro
+tas on pieni mikro
 tosi pieni jääkaappi
 suklaata jota mä toin suomesta
 joo tässäkin on vähän näitä suomalaisia juttja mä toin
@@ -237,7 +237,8 @@ mä laitan mun silmien ympärille
 ja tää sanoo että 'pidä sun silmäsi eloisina'
 eli tää on myös 'tehty koreassa'
 tääki on tehty koreassa
-ja koska oon koreassa mä haluun käyttää korealaisia voiteita
+ja koska oon koreassa
+mä haluun käyttää korealaisia voiteita
 toivottavasti tää auttaa siihen että mä näytän et oon hereillä
 oho toi nyt pursuaa ulos
 tää on varmaan ollu kolme yötä et mun uni on ollu vähän sekaisin
@@ -274,7 +275,7 @@ että joo semmoista
 joo mä lopettelen tän vlogin tähän
 anteeks et mä olin varmaan aika väsynyt
 varsinkin tossa viimeisissä klipeissä
-mä en tiia kun mä editoin tätä
+mä en tiiä kun mä editoin tätä
 et saanks mä musta selvää
 et höpisenkö jotain outoja
 mut oo mä lopetan tän tähän ja joo nähään ensi videssa

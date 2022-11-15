@@ -18,7 +18,7 @@ miksi haet tätä työpaikkaa
 musta tuntuu, että mulla on paljon annettavaa
 ja uusia ideoita
 ja että tää työpaikka on niinku mulle tehty
-koska mä oon aina ollu kiinostunu tässtä aiheesta
+koska mä oon aina ollu kiinostunu tästä aiheesta
 tää työpaikka olis tosi hyvä mahdollisuus mulle
 edetä mun uralla ja kehittää mua
 työntekijänä ja ihmisenä

@@ -1,11 +1,11 @@
 sanelu
 14:30
-halusin tehä jottan koncretista enka
+halusin tehä jottan konkreettista enka
 kääna teiti sivuunja
 mutta opiskelu voi olla myös toisela paista
-mä tapan emillian joka varmistuu piän lukiosta
+mä tapan emillian joka valmistuu piän lukiosta
 ja saa samalla sahköasetaja paperit
-miten säada teit siten vasataa
+miten säada teit siten vaasataa
 mä jätelin tähan vois laitta totta
 yhen kuitkiman
 sit valaisen pistorasia
@@ -52,7 +52,7 @@ pistoasia tulee 230 tisina se on kaikki
 sen takia mä meen sina kouluun
 aivaan ei pitaa lähe tuin nolasta
 laikein kaiken sun tiedä tällä
-kyllä että olun haarrasta asentama mista kodoi
+kyllä että olun haarrasta asentama mista kodoija
 se lyhan sille kun mä kiinos sihen sähkö alas
 ja sama alkaa niikun ammatikolun kiinkia
 tuunman enneman kun se lukia
@@ -100,9 +100,10 @@ mun luuletun nyt ymmärtää minen on tunni tusti
 ehkä hyvä mun pitais peria taaseke
 se on semmonen puoliks vihren pieni pafinai laatikö
 siis näytta niipusuuja tarvittaa sanoin niipusuuja
-laitattan pil kiini
+laitattan pilu kiini
 onneks tuinkö
 kyllä jumakauta
+
 18-15
 kortse se haisee tien me just tan paitse
 sa lukia jälkeen opiskelu
@@ -132,6 +133,7 @@ niin kyllä
 liunolet tännelo
 ei se on välli-matter kunpalla renulla
 se on aina jäkai se jouhtuu
+vaihan se irvistää tällä
 vaihan se irvistää tällä
 siis asiakat kato pala etta viitsi
 ja nyt varmaa työ jouhtää jottankin palotetta
