@@ -309,6 +309,15 @@ utelias -curious
 vertaat -compare
 sähkö muuttui tieteellisestä uteliaisuudesta -scientific
 nykyaikaisen elämän olennaiseksi työkaluksi -essential
+
+
+# marraskuun kuusitoistä
+rangastus -punishment
+tunturi -high hills
+jokainen voi tehdä virheitä -mistake
+
+# marraskuun kaheksantoistä
+kyl se tulee
 '''
 
 

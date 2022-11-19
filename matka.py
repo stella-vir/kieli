@@ -59,14 +59,15 @@ tai kun me pääsin-arrived tänne souliin
 tai minä pääsin mä tulin ite tänne souliin
 mun laukku ei-ollu kerennyt mun lennolle
 eli mulla ei nyt oo laukkua
-okei mun piti tehdä kaikki niinku täyttää papereita
+mun piti tehdä kaikki niinku täyttää papereita
 että minne ne voi lähettää sen
 kun ne toivottavasti saa sen tässä
 parin päivän sisallä tänne
 sit mä hain mun sim-kortin
 mä olin varannut auton joka ajaa mut tänne mun airbnbhin
 koska se soulin lento oli niinku yön yli lento
-niin mä tulin tänne aamulla, niin mä vähän niinku
+niin mä tulin tänne aamulla,
+niin mä vähän niinku
 myöhästyin-missasin yön unen
 et mua väsyttää hirveesti
 mut ilmoittautua-check-in on kello kolme
@@ -78,8 +79,8 @@ täällä oon vaan pystyny lukee
 ja kattoo näitä hienoja kukkia
 ruusuja tuolla
 mut joo väsyttää ihan hirveesti
-mun pitää vielä käydä etii tämmönen covid testipaikka
-kun mun pitää ottaa PCR testi tässä komen päivän sisällä
+mun pitää vielä käydä etii tämmönen testipaikka
+kun mun pitää ottaa testi tässä komen päivän sisällä
 kun mä tuun tänne
 mut mieluummin-rather teen sen
 ennemmin kuin myöhemmin
@@ -211,11 +212,11 @@ mut mä sanoisin et joitain ehkä 80%
 ainakin käyttää maskia vieläkin ulkona
 ehkä jopa vähän enemmän jos on niinku alueissa
 jos on enemmän ihmisiä
-mun piti ottaa kaks korona testiä
+mun piti ottaa kaks testiä
 et mä pääsen koreaan ees
 eli mä otin yhen ennen kun mä lensin
 sit mä otin yhden kun mä pääsin tänne koreaan
-elikkä semmonen systeemi täällä on
+elikkä semmonen järjestelmä-systeemi täällä on
 tältä se näyttää
 en tiiä miten hyvin toi kullanväri
 heijastuu tässä kamerassa
@@ -239,8 +240,9 @@ eli tää on myös 'tehty koreassa'
 tääki on tehty koreassa
 ja koska oon koreassa
 mä haluun käyttää korealaisia voiteita
-toivottavasti tää auttaa siihen että mä näytän et oon hereillä
-oho toi nyt pursuaa ulos
+toivottavasti tää auttaa siihen
+että mä näytän et oon hereillä oho
+toi nyt pursuaa ulos
 tää on varmaan ollu kolme yötä et mun uni on ollu vähän sekaisin
 se on kuuden tunnin aikaero
 eli jos nyt on onks se mitä melkein 7
