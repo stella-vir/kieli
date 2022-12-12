@@ -1,40 +1,53 @@
 sanelu
 14:30
-haluasin tehä jottan konkreettista
-enka kääna tentikija sivuunja
-mutta opiskelu voi olla myös toiselasta
-mä tapan emillian joka valmistuu piän lukiosta
-ja saa samalla sahköasetaja paperit
-miten säada tee siten vasataa
-mä ajätelin tähan vois laitta totta
+haluasin tehä jotain konkreettista
+enkä kääna tentin-exam sivuja
+mutta opiskelu voi olla myös toiselaista
+mä tapaan emillian joka valmistuu pian lukiosta
+ja saa samalla sahköasetajan paperit
+mitäs saatte tänään sitten väsätä-build
+mä ajatelin tähän-here vois laitta tota
 yhen kytkiman -switch
-sit valaisen pistorausia
-totta ihan peruas asia
-tällä kahvista voi hake kutos kytkiman
-jakko asiat
-anna mil 3 kertta 2 pista asiat ja totta
-se oli tosi monta asia
+sit valaisin pistorasian
+tota ihan perus pistorasian
+täältä kaapista voi hakee-hakea kutos-kuusi kytkimen
+jakorasia-junction box
+nmj 3 kertaa-times 2 pistorasia ja tota
+siinä-there oli jo tosi monta asiaa
 mä kokeilen
+
+
 pistorasia sen mä tiedän ~tada
-sä varmistuu siis sahköasetojaksi
-jaa kyllä
-sen liisaksi mä oon ylioppilas
-kerran vaan tasta kaks soista tutkinaks
-miten se käytois toimii
-mulla on kolmen kertaa viikkos ammatikoluun
-ja sit kaks kertaa viikko lukia
-hirvi moni ainakin semmonen teks
-2 kenta henrvaranka
-kun mä tehi vielä työ tekei sinna ohilla
-ah sen liisaksi vielä
-joo mä sanosin että se ei jo ranka
+sä valmistut siis sahköasentajaksi
+joo kyllä
+sen lisaksi mä oon ylioppilas
+kerran vähän tosta kaksois tutkinnosta-degree
+miten se käytännössa-in practice toimii
+
+mulla on kolme kertaa viikossa ammattikouluu
+ja sit kaks kertaa viikkossa lukioo
+
+hirveen moni on ainakin kysynyt multa
+eiks se kaksoistutkinto oo hirveen rankkaa-rough
+varsinkin-esp kun mä oon tehnyt vielä töitä siinä ohella-site
+
+ah sen lisäksi vielä
+
+
+/*---------------------------------*/
+
+joo mä sanosin että se ei oo rankkaa
 mut se vaatii työta
-se vaatista motivatia
-etta kly kak asesta tutkinto pääsen
-läpi jos halua
-tietenkin niiku luki pääsen läpi
-mut niinku josa mennä työssä
-pitta tehä työtassa ettai
+se vaatii sitä-that motivaatioo
+
+/*---------------------------------*/
+
+etta kyl kaksois tutkinnon pääsee läpi jos haluaa
+ja tietenkin niinku lukion pääsee läpi
+mut niinku jos haluu menestyä
+niin pitää tehä töitä sen eteen-for it.
+
+
 15:50
 
 mikä se olisi koordi
