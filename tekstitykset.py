@@ -20,8 +20,8 @@ mä kokeilen
 pistorasia sen mä tiedän ~tada
 sä valmistut siis sahköasentajaksi
 joo kyllä
-sen lisaksi mä oon ylioppilas
-kerran vähän tosta kaksois tutkinnosta-degree
+sen lisaksi mä oon ylioppilas (silloin lukioo jalkeen)
+kerro vähän tosta kaksois tutkinnosta-degree
 miten se käytännössa-in practice toimii
 
 mulla on kolme kertaa viikossa ammattikouluu
@@ -44,56 +44,59 @@ se vaatii sitä-that motivaatioo
 
 etta kyl kaksois tutkinnon pääsee läpi jos haluaa
 ja tietenkin niinku lukion pääsee läpi
-mut niinku jos haluu menestyä
+mut niinku jos haluu menestyä-onnistua 
 niin pitää tehä töitä sen eteen-for it.
 
 
 15:50
 
-mikä se olisi koordi
-m mil 3 kertta 2 puola
+mikä se oli se koodi-code
+nmj 3 kertaa 2 ja puoli-half 2.5
 mä löysin hyvä
-missä on mun narrasta
-oonk se viihtynuu tassa sähkohein koulus
-joo on viihtynyt
-se oli siis tosi mielenkiinosku tota
-kysailiukset -study
-mihin mä menee opiskelemaan ala sen jälkeenja
-mä sanoin että niinku sähköala
-ei ehkä kaikkenli sillei
-hei tosi siisti
-mut sen jälkeen mut kysytiin
-mitä sä tiedat sähkösta
-pistoasiasta tulee 230 tisina se on kaikki
-sen takia mä meen sinä kouluun
-aivaan ei pitais lähe tuin noulastali
-kerron laikein kaiken sun tiedä tällä
-kyllä että olut harrastanut asentama mista kodoija
-se lyhan sille kun mä kiinos sihen sähkö alas
-ja sama alkaa niikun ammatikolun kiinkia
-tuunman enneman kun se lukio
-sella on kuitenkin vähän siila mus tuntuu
-työ mäsin käy pelkasta sen on lukion
-mä oon se ollu sen jälkeen
-vähän tyhyia päälle
-opin vauma ihan hukassa-lost
-mitä mä teen mihin mä mein
-ja musta tuntuukaa se jotenkin
-jos mä sanon ta on pelkää lukiao
-mä en se ike pitää nyt pelkasta vaihtuu sita
-mä meen lukia jäkeen niinkun ammatikolun
-tai jouhanki ylamasta tai
-musta tuntuu mä en enneman sun
-käyda ihminen talla
-niinku hyvää
-et siis taas tehän oikestin tosi paljon käsille kaiken
-vaikea
-tähan on tunni mitä ei voi siten harjoitaa
-jos ei löytaa paperit
+missä on mun arvosana-grade
+ooks sä viihtynyt täällä sähköasentaja koulussa
+joo oon viihtynyt
+se oli siis tosi mielenkiintoista 
+kun tota porukka-group of people kyseli-asked(multiple ques)
+mihin mä menin opiskelemaan yläasteen-middle school jälkeen ja
+mä sanoin että niinku sähköala-field  katos alue 
+eka-first kaikki oli silleen-in that way-like niiku
+hei vau tosi siistii
+mut sen jälkeen multa kysyttiin
+että mitä sä tiedat sähkösta
+pistoasiasta tulee 230 volttia-jännite siinä-there on kaikki
+
+
+senhän takia mä meen siihen kouluun
+aivaan 
+eli sä lähdet ihan nollasta-0 liikkeelle-moment liike-business
+sä oot oppinut kaikein sun tiedon täällä
+kyllä 
+et oo harrastanut asentamista-installation-asentaa kotona
+se oli aina silleen-like that 
+kun mä kiinostuin siitä sähköalasta ja 
+samaan aikaan mua alko-begin niinku ammattikoulukin kiehtomaan-fascinates enemmän kuin se lukio
+se oli kuitenkin vähän silleen musta tuntuu
+jos mä oisin-olisin käynyt pelkastään-only pelätä-afraid sen lukion
+mä oisin ollut sen jälkeen
+vähän tyhjän-empty tylsä-boring päälle-on the top of 
+abi-last year vuotena (mä oon) ihan hukassa-lost
+mitä mä teen mihin mä meen
+ja musta tuntuu kans-also myös se jotenkin
+jos mä oisin ottanut pelkän lukion
+mä oisin ite pitänyt-consider ite pelkästään vaihtoehtona-as the option sitä
+mä meen lukion jälkeen niinkun ammatikorkeeseen-korkea koulu huoneseen
+tai johonkin ylemmäs-higher tähtäävälle-aiming
+musta tuntuu että mä oon ennemmän sellainen
+käytännön läheisempi ihminen 
+täällä on niinku ihan hyvä
+et siis tässä tehään-tehdään oikeesti tosi paljon käsillä kaikkea
+täähän on duuni-työ mitä ei voi sitten harjoittaa
+jos ei oo jotain papereita
 
 /*-------------------------------*/
-joo kyllä sa pääsen eis tuku myy jaksi
-jos tulee sähkö vain koulusta
+joo kyllä sää et pääse ees-edes-even tukkuun-wholesale jälleen myyjäksi
+jos sulla ei oo sähköalan-of koulutusta-education
 /*-------------------------------*/
 
 17-20
