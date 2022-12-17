@@ -100,72 +100,65 @@ jos sulla ei oo sähköalan-of koulutusta-education
 /*-------------------------------*/
 
 17-20
-sano itse vain mutta sitten etta suuri
-tallanen ammatina kanssa osat
-ei oikesta se niinku se on varmista on
-se tuo
-mulla niinku semmonen itse varva toisille
+oot sä saanut-get itsevarmuutta siitä-from that
+että sulla on nyt tällanen ammatti jonka sää osaat
+ei oikestaan se ei niinku se että mä valmistun-graduate
+se ei tuo mulle niinku semmosta itsevarmuutta että
 hei nyt mä tiedän kaiken
-koska mä en peritasi ikina voi tanala koula
-valmis
-että teknikka muttu asematu ystävä muttu
-satahsen muttu
-mä opisen pohjän jos
+koska mä en periaatteessa-practically ikinä voi tän alan-field kaa-kanssa valmistua
+että tekniikka muuttuu-change asennus-installation tavat-habit muuttuu
+säädökset-regulation muuttuu
+mä opin sen pohjan
 /*-------------------------------*/
-sitten kokemus opetta mua lisaa
+ja sit se kokemus opettaa mua lisää
 /*-------------------------------*/
 
 niin just
-mä lusikeitta heti mulle taise kiinnikat
-kylmenen viiva 10-12
-taiseki kiinni
-mun luuletun nyt me ymmärtää minen on
+haluat sä käyda hakee mulle tc-kiinnikkeet-attachment
+kymmenen viiva kakstoista 10-12
+tc-kiinnikke
+mun luetunymmärtäminen on tunnetusti-known aika hyvä
 tunnitusti-recognize
-ehkä hyvä mun pitais periatais taaseke
-se on semmonen puoliksi vihreä pieni pafinai laatikko
-siis näytta niipusuuja
-tarvittaa sanoin niipusuuja
-laitattan piuu kiini
-onneks tuinkö
+mun pitäis periaatteessa 
+se on semmonen puoliksi vihreä pieni pahvinen laatikko
+siis näitä nipsuja-clips
+tarkoitat sä näitä nipsuja
+laitetaan tää piuha-cord kiinni-attach
+onnistuinko-did i succeed
 kyllä jumakauta
 
 18-15
-koritse se harsee tien me just tan
-paitse ku
-sa lukia jälkeen opiskelu
-tää on hyvä kysymus
-mä mietiin sitä aika uusin
-jä kyllä kuoni mä oon jostan jäänyy
-anaki se sallasista yhdesesta
-ehkä tiedus eläma vaihasta
-ainakin niinku mun lähipiessa
-ihminssakaa opiskelu niin
-siiten nyt taa on opiskelu billetaja
-sit sun opiskelon kavelitiin niin puhuta
-joka puhu
-tai juttu ja
-niin mä itsekaas myös mietat tosi paljon
-käsi ihmisia pelkasta ammatinkouluussa
-sen jätkään
-ja ei koulu tavii eteenpään
-ei taas nykyn niinku
-paitse tosi
-samasta miten sen tein
-että onks niinku niilesee menettus vain
-onks hyvä nä vain pääsee suoraan toihen
+koet-feel sä että sä oisit jäänyt-stay-remain jostain paitsi-out of  
+kun sä et enää lukion jälkeen opiskellu
+tää on kyllä hyvä kysymus
+mä mietiin sitä aika usein-often
+jä kyllä mä koen että mä oon jostain jääny paitsi
+ainakin se sellaisesta yhteisöstä-society-community 
+ehkä tietysti elämän vaiheesta-point
+ainakin niinku mun lähipiirissä-close circle ne ihmiset jotka on opiskellu niin
+siiten oli-had jotain opiskelu bileitä-parties
+sit sulla on opiskelu kaverit ja niiden kanssa puuhataan-do-craft juttuja
+niin no se  mut sit kans-kanssa jos miettii-one thinks-miettiä
+tosi paljon on kans ihmisiä pelkästään-only ammattikoulussa
+jotka ei kouluttaudu-study eteenpäin-more
+niin periaatteessa-practically nekin jää-remain niinku tosta-that experience paitsi
+tosta samasta niin miten sen sitten-then
+että onko se niille-those niinku sillee-that way menetys-loss vai -is it really that way
+onko se hyvä ne vain pääsee suoraan töihin
 niin kyllä
 18-55
 
 23-20
-lyijy renurot tärnnelo
-ei se on välli-matter kunpalla renulla
-se on aina jäkai se jouhtuu
-vaihan se irvistää-make a face tällä
-vaihan se irvistää tällä
-siis asiakat kato palata tattä etta viitsi
-ja nyt varmaa työ johtää-lead to jotenkin palautetta
-musta ei vielä on sähköasentajaksi
-perkela
+reunalle tänne reunalle-boarder
+ei sillä-that ole väliä-matter kummalle-which reunalle
+se on aika jäykkä-stiff 
+se johto-wire-connects vähäsen-vähän irvistää-make a face täältä-from here
+vähäsen irvistää täältä
+tulisko asiakkaalta nyt palautetta-feedback sitten
+tulis varmaan jo työnjohdolta-manager palautetta
+musta ei ole vielä sähköasentajaksi perkela
+
+
 toda kuulais kans työ-good job mä luusin
 hei kato hyvä jumalauta
 sit sitten nä ruuva vielä neitein
