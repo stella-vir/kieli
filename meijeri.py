@@ -6,10 +6,10 @@ mutta se tarkoittaa myös että opit,
 älä pyydä anteeksi yrittämistäsi
 
 oon hyvä työntekijä, koska
-oon täsmällinen ja oma-aloitteinen -precise -proactive
+oon täsmällinen-precise ja oma-aloitteinen -proactive
 
 se on vaikeaa, olin täysin idiootti
-se on mun vikani, mutta mitä voin tehä asialle
+se on mun vikani-fault, mutta mitä voin tehä asialle
 
 asettaa korkeampi tavoite -set higher
 korkeintaan -max.
@@ -17,22 +17,23 @@ keskity vain siihen, mitä voit tehä,
 mitä enemmän teet,
 sitä parempi tulos
 
-mä saan jättää tän -leave
-en viittiny laatikkoon jättää -leave in the mailobx
+mä saan jättää-leave tän
+en viittiny-refer to laatikkoon jättää
 aina ku joku jättää sinut, -leave
 sitä enemmän haluat jäädä  -stay
 en oo jäämässä suomeen ja lopettamassa
-mä jaan nää murteet maantieteellisesti -divide and conquer -dialects
+mä jaan-share nää murteet-dialects
+maantieteellisesti-geographically -divide and conquer
 jaetaan -share
-kun se jakaa postia -share-deliver the mail
+kun se jakaa-deliver postia
 
-joskus jäät jumissa menneisyyteen -stuck
+joskus jäät jumissa-stuck menneisyyteen -past
 
-ottanut uhmakkaasti -defiantly
-vastaan iskut ja kivut  -blown -pain
-sinnikkäästi kärsivällisyyttä -persevere -patience
-ei antanut periksi -giving up
-tuhoisan autokolarin -desperate car crash
+ottanut uhmakkaasti-defiantly
+vastaan iskut-blown ja kivut-pain
+sinnikkäästi-persevere kärsivällisyyttä  -patience
+ei antanut periksi-giving up
+tuhoisan-desperate autokolarin-car crash
 se on parempaan suuntaan, -for the better
 niin on aina ollut -be
 
@@ -42,19 +43,19 @@ mun täytyy myöntää -i have to admit
 voit ajetalla sillä tavalla koko päivän
 tai voit tehoä asialle jotain
 
-ansaitset sen, sekä huonolla että hyvällä tavalla -deserve
-teit valinnan, se oli aina sinä -choice
+ansaitset-deserve sen, sekä huonolla että hyvällä tavalla
+teit valinnan-choice, se oli aina sinä
 
 can
 jos pystyy keskittyä -can concentrate
 on pystyä käydä kaupassa -can go shopping
-en tiiä pysytiskö käydä enää
+en tiiä pystyiskö käydä enää
 mä pystyin -could
 
-yrittäkää pysyä mukana -try to stay along
-pitäiskö pyytää se kylään -ask
+yrittäkää pysyä-stay mukana
+pitäiskö pyytää-ask se kylään
 
-saa ostettua ruokakaupasta -can be bought
+saa-can ostettua-be bought ruokakaupasta
 
 kätevää -handy
 
@@ -66,73 +67,73 @@ mennään menhän
 taloon talhon
 
 Etelä-pohjänmaalta
-me taidetaan saada sadetta
+me taidetaan-think saada sadetta
 me tairetahan saara saretta
 tulee tuloo
 menee menöö
 
-yritän välttää niitä -avoid
+yritän välttää-avoid niitä
 joutua -end up
-kiertää sit naapurustossa ovelta ovelle -around
+kiertää-around sit naapurustossa ovelta ovelle
 pitkää ikää -age
 yllätys pelotella -scare
 pelko -fear
 se pelasti äidin -save
 hän pelaa yhä peliä -play
-ettei loiskuta vettä joka puolelle -splash
-loskaisen kelin -slushy weather
-täällä sais olla kumpparit jalassa tällasella säällä -wellies on the feet
-käyt päälle vasaran kanssa -hammer
+ettei loiskuta-splash vettä joka puolelle
+loskaisen-slushy kelin-weather
+täällä sais olla kumpparit-wellies jalassa-feet tällasella säällä
+käyt päälle vasaran-hammer kanssa
 
-ei sais kantaa edes perille -carry there
-laitonta illegal
+ei sais kantaa-carry edes perille-there
+laitonta-illegal
 olen erittäin pahoillani
-verikokeeseen blood test
+verikokeeseen-blood test
 
-yritän etsiä -find
-totetuttavat unelmansa -dream come true
+yritän etsiä-find
+totetuttavat-come true-implement unelmanssa-dream
 kyseenalaistaa question
-ruuhkassa traffic jam
+ruuhkassa-traffic jam
 
-keräilen collect
+keräilen-collect
 
 sä oot iloinen mitä hän lähettää, joten -so
 
-uljas ratsu siivouskärryni -proud-gallant knight-steed cart
-tienaan vähan rahaa -earn
+uljas-proud-gallant ratsu-knight-steed siivouskärryni-cart
+tienaan-earn vähan rahaa
 
-elää hetkessä
+elää hetkessä-moment
 
-omaisuuteni property
-rannatoomuus landlessness
+omaisuuteni-property
+rannatoomuus-landlessness
 
-miten ihmiset heräilee siihen ajatukseen -wake up to
+miten ihmiset heräilee-wake up to siihen ajatukseen
 
-pyörittää meidän perheyritystä -run
-kuskata ne mun äidin kellariin -take
-varjopuolensa shadow
-luonnonvoimat -natural force
-arkea everyday
-harvemmin rarely
-harvoin kiroilen, mut on kyllä paska päivä -swear
-maanjäristykseen earthquake
-niin tuntuu siltä, että se kestäisi ikuisuuden -last forever
-kerkiää myös miettii emerge
-katto rupee romahtamaan -the roof starts to fall off
+pyörittää-run meidän perheyritystä
+kuskata-take ne mun äidin kellariin
+varjopuolensa-shadow side
+luonnonvoimat-natural force
+arkea-everyday
+harvemmin-rarely
+harvoin kiroilen-swear, mut on kyllä paska päivä
+maanjäristykseen-earthquake
+niin tuntuu siltä, että se kestäisi-last ikuisuuden-forever
+kerkiää-emerge myös miettii-thinking
+katto-roof rupee-starts romahtamaan-fall off
 välillä -between
 Tuttu -familiar
-kun ehtii tottuu -get used to it
-mihin on tottunu -what is it used to
-pysyvästi permanently
+kun ehtii-reach tottuu -get used to it
+mihin on tottunu-used to
+pysyvästi-permanently
 
-haastavaa -challenges
-jotenkin aliarvioi itseään -underestimate
-epäröi -hesitate
+haastavaa-challenges
+jotenkin aliarvioi-underestimate itseään
+epäröi-hesitate
 
-asettu aloillen -settle down
+asettu aloilleen-settle down
 
 haaveilee -dream of it
-puristaa appelsiinimehunsa -squeeze
+puristaa-squeeze appelsiinimehunsa
 noin sitä itekin oli ennen -like it was before
 palo tai valo
 mä oon tajunnu -realize
@@ -143,50 +144,50 @@ pakokeino -getaway a way to escape
 urhea -brave
 terveydeksi -bless you
 
-nousetko seisomaan se kädessäsi
+nousetko seisomaan-stand up se kädessäsi-with
 meidät kutsutaan tapahtumiin  -invited to events
 vakavasti -seriously
-yhteiset päivälliset -dinner
-iski viimeistään -stuck at the latest
-käydaan laudat -(surf) board
-rupeaisi uutta lautaa -start new board
+yhteiset-joint päivälliset -dinner
+iski-hit-struck viimeistään  -at the latest
+käydaan laudat-(surf) board
+rupeaisi-start uutta lautaa
 tuntumaan -seems
-käry tästä hommasta -get rid of sth-business
-vihdoin tehtaalla -finally factory
+käry-get rid of tästä hommasta-business
+vihdoin-finally tehtaalla-factory
 
-se luetaan niin kuin se on kirjoitettu -read
+se luetaan-read niin kuin se on kirjoitettu
 
-saarelle island
-vietetään tulevaisuudessakin -celebrated
-tulevaisuuden kannalta -in terms of
-lähdössä hakemaan avaimia -left-departure get
+saarelle-island
+vietetään-celebrated tulevaisuudessakin
+tulevaisuuden kannalta-in terms of
+lähdössä-left-departure hakemaan-to get avaimia
 ylipäätään -at all
 
-tiensä kotiin -way home
+tiensä kotiin -the way home
 
 suunnittelisi -plan
 ei turhaan sanota -needless to say
-puoleensavetävää attractive
-on täällä jotain, miks on niin hyvä olla -there's sth
-erityinen ihminen mun luokse -to me
+puoleensavetävää-attractive
+on täällä jotain-there's sth, miks on niin hyvä olla
+erityinen ihminen mun luokse-to me
 
 saman katon alle asustelemaan
 
-odotan sitä innolla -look forward to it
-pääsee jakamaan hyvät ja huonot hetket
-häpeilemättä shamelessly
-hihhuloiden snort
-parisuhde relationship
+odotan sitä innolla-eager -look forward to it
+pääsee-can jakamaan-share hyvät ja huonot hetket
+häpeilemättä-shamelessly
+hihhuloiden-snort
+parisuhde-relationship
 
 se tulee sitten kun tulee
 ja jos ei tuu, kyl se tulee -it will come
 
 
 # lokakuu kolme kyt
-tyyni ilma ja taivas heijastuu tosi -serene reflect
-tienaan nii hyvin -earn
-jos haluut menestyä, -succeed
-pitää tehdä töitä sen eteen  -work for it
+tyyni-serene ilma ja taivas heijastuu-reflect tosi
+tienaan-earn nii hyvin
+jos haluut menestyä-succeed
+pitää tehdä töitä sen eteen-work for it
 
 # marraskuun neljäs
 millaisen lounaan sinä syöt -what kind of
@@ -195,16 +196,16 @@ missä sinä syöt lounasta -where for
 saisinko kuittauksen
 loppupäivä -the rest of
 ei tule kysymykseenkään -out of question
-voisitteko toistaa -repeat
+voisitteko toistaa-repeat
 saisinko laskuun
 -isi-
 kysyisin
 olisiko
-enpä taida nyt -think
+enpä taida-think nyt
 veisin perheen pitkälle matkalle
 viedä-veisi
 etkö jäisi kuopioon
-arvatkaa guess
+arvatkaa-guess
 milla summalla -amount
 ostaisin asunnon ja auton
 en ostaisi autoa-asuntoa
@@ -225,7 +226,7 @@ myrkyttää -poison
 tapana -habbit
 
 pistorasia ei toimi
-sähköt ovat poikki koko huone-asunto
+sähköt ovat poikki-off koko huone-asunto
 
 ei ole koskaan
 ne ei löydä suonta-vein
@@ -318,6 +319,29 @@ jokainen voi tehdä virheitä -mistake
 
 # marraskuun kaheksantoistä
 kyl se tulee
+
+# marraskuun kakskymentä
+sinä et muuta tee kuin valitat koskaan
+elämä on välillä-sometimes semmosta
+/*---------------------------*/
+jos sä hetkeksi lakkaisit-stop miettimästä epäonnea
+/*---------------------------*/
+käärisit hihat-roll up the sleeves
+ja saatana, tekisit jotain,
+niin ehkä onni suakin-you kohtais
+
+tultiin vaan toivottamaan hyvää joulua
+lätty umpeen kyllä me voidaan
+
+#joulukuun kaheksantoista
+tajusi äkkiä-suddenly-short
+edes-even-at least
+onnettomuus-accident
+onnettomia-unhappy
+eikä ollut kuultu
+Eikä se ole pelkästään-not only
+vaan myös-but also
+
 '''
 
 
