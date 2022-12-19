@@ -156,26 +156,26 @@ se johto-wire-connects vähäsen-vähän irvistää-make a face täältä-from h
 vähäsen irvistää täältä
 tulisko asiakkaalta nyt palautetta-feedback sitten
 tulis varmaan jo työnjohdolta-manager palautetta
-musta ei ole vielä sähköasentajaksi perkela
+musta ei ole vielä sähköasentajaksi perkele
 
 
-toda kuulais kans työ-good job mä luusin
+tuota kuulee kans-myös työn alla-below-during usein
 hei kato hyvä jumalauta
-sit sitten nä ruuva vielä neitein
-kaks ruuviki shat
-heti kun mä sänoin perkela
-se lähetti toimii
-väli sen tuntuu se on tovi
-nyt on hyvin asentaja pista rahas
-kyllä nyt on pisto rahas paikkalla
-tää varma aika sillet tytyttava-boring
-opiskelua varmaan myös tytyttava
-työn tekua
-koska koncretista sain niinku aika
+sit siinä on ruuvari ja laitat vielä
+kaks ruuvia-screws kiinni sieltä
+heti kun mä sänoin perkele
+se lähti-starts toimii
+välillä sen tuntuu että se on tollee-tuolla lailla-like that 
+nyt on hyvin asennettu pistorasia
+kyllä nyt on pistorasia paikallaan-in place
+tää on varmaan aika-really sillee-that way-like-niinku tyydyttävää-satisfying opiskelua 
+varmaan myös tyydyttävää työskentelyä
+koska konkreettisesti saa niinku jotain aikaan
 se on kyllä totta
-jos teke jos asiakalava oma koti talon
-niis ta että saasen varmen ihmisia
-onse kaana sähkö selvät
+jos tekee just asiakkaalle omakoti taloa
+niin sitä että saa-get sen-it valmiiksi-finished 
+asiakkaalla on-has sähköt siellä-there
+
 kyllä se tietenkin siis katso filma
 jos se tule tehettu-done tämä siis tai niinku
 i iso työmaita-site
