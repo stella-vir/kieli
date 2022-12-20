@@ -176,79 +176,87 @@ jos tekee just asiakkaalle omakoti taloa
 niin sitä että saa-get sen-it valmiiksi-finished 
 asiakkaalla on-has sähköt siellä-there
 
-kyllä se tietenkin siis katso filma
-jos se tule tehettu-done tämä siis tai niinku
-i iso työmaita-site
-ja siis sata tekemaan-to do
-niinku-like ihan jukisi paikkoja kin
-niise siten joskus pysty kävelevaan
-kaisa kauppakassa
-voi siis tamenon säköa viis pota sitten
-mulla työ hommi teilla mies vähän koko ajan
-ja sen varmaan hiima-shame silla niinkun
+kyllä se tietenkin sit kans on-there's firmaa
+jossa tulee tehtyä-make isoja juttuja tai niinku niilla on isoja työmaita-site
+ja ne saattaa olla tekemässä-make
+ihan niinku-like julkisiapaikkojakin
+niin se että sit joskus pystyy kävelemään
+vaikka jossain-some places kauppakeskuksessa
+muistella sitä-that että täällä-there mä vedin-pull-install sähköjä
+viis vuotta sitten
+
+mulla työt kummittelee-haunt mielessä vähän koko ajan
+ja sä et varmaan mee himaan-home sillain niinku
 pistorasia pitää asentaa
-pistorasia pitää asentas
-ei se on vähän tietenkin jos kun ne soittaa
-huotu puolella asiaka niinku
-asiaka louna
-niinku tekemassa niin eihän niinku
-eista varman niinku kävela
-kamppaan sisällan
-se ai mulla taukuo
-vähän hengilytää vaan niiku se-that is it
-kuitenkin pitää olla jonkin näkasta
-tilanata juo-order a drink
-mutta se on niinku sillei siis
-kun me lähen töissa
-me teen työ mun takaset
-että mun tarvi mietti
-toivon kysula asia miten väha-little kadehti-jealous
-että vois oikestin olla joissa etkaisilla
-koncretistys työkatti paatat
-ei ole minua asia niiana
+pistorasia pitää asentaa
+ei se on vähän tietenkin jos on huolto-maintenance puolella
+käy niinku asiakkaan luona
+niinku tekemässä niin eihän niinku
+ei sitä vaan-just niinku kävellä kämppään sisälle
+ai mulla alko tauko mää lähdenkin nytte
+
+/*-------------------------------*/
+vaan niiku pitää olla jonkinlaista-some kind of tilannetajua-aware
+/*-------------------------------*/
+
+mutta se on niinku sillee-that way sitten
+kun mä lähen töistä
+mä jätän työt mun taakse
+että ei mun tarvi niitä-those miettii-think about 
+
+toi on kyllä asia mitä voin vähän-little kadehtia-jealous
+että vois oikeesti olla joissain hetkessä sillee
+jossa konkreettisesti-completely työkalut tipahtaa-drop
+
+ei ole minun asia enää
 joo kyllä
-ei laita tasta nyt kukaan maksa nimenen
-mitä tein minä kotiin
-koska idea on niinku sella
-saata herata kolme yölle alussa
-tunni perkelle nyt mitä mä
-keksi-come up with sen hengi
-totta-true et pääsin siltä oon
-eriton-esp aituksista missä aiheesa
+minulle ei tästä nyt kukaan maksa minulle
+minä en tee minä lähden kotiin
+
+koska idea on niinku sillee
+että saatan-may-saattaa herätä kolmelta yöllä 
+ja olla sillä-like perkele 
+nyt mitä mä keksin-come up with siihenkin-even for that 
+totta-true että tuota 
+ei pääse sillälailla-that way eroon niistä ajatuksista-thoughts missään vaiheessa
 työ on tehty kyllä
-oonks tauon paikka
-voisi ollaankin
-hyvää lähetaan
-ihan hyvin asenato kyllä
+oisko se-it tauon paikka
+voisi ollakin
+hyvä lähetään
+ihan hyvin asennettu kyllä
 
 
-ootsi koska mietiin siita
-voisi saa jotentin parampi työ tekiassa
-jos opiskelu vielä
-totta ollan mitä sen teet
-on mieteny
-ehkä toimiiteina
-kysen asetana ehkä uusin niinku siita etta
-onks mun tiettu vak processiti
-niinku halussa
-tai mä joskus mietiin siita
-teis haluas lahataan teke tutkin-study varjoliis mies
-niin olisiko koulusta-go to school
-sinna hyödya
-ja sen mietiin että sä voit siten
-niinku telee jälkeen pään opiskella
-oon oon miehtyny
-mä en ooska mä ennä kantas-ready menää
-toimiitaja kouluun
-mä oon mietinnut kännatta
-siis mennä opiskelle politika tai historia
-ehtsi tieda siis aiheesta eteinpään
-jä siis vois autta sitta toimii tein työssä
-tai jos me ulkomaille kouluun että
-niin ke selkanty niinku sellasen piirri
-mista se tee
-muilla sulla selva
-todelsii niinpä tiedot
+oot sä koskaan miettinyt sitä
+voisit sä olla jotenkin parempi työntekejä
+jos oisit opiskellut vielä
+tota-that alaa mitä sä teet
+
+oon miettinyt
+ehkä toimittajana-reporter
+
+kyseenalaistan-i doubt ehkä usein niinku sitä että
+onks mulla tietyt prosessit niinku hallussa
+tai mä joskus miettinyt sitä
+jos haluais lahtee tekee tutkivaa-study journalismia
+
+niin olisiko koulusta-go to school siinä hyötyä
+
+oot sä miettinyt että sä voisit silleen niinku talleen jälkeenpäin opiskella
+
+oon oon miettinyt
+mä en usko että mun kannattaa mennä toimittajakouluun
+mä oon miettinyt kannattaisko siis mennä opiskelee politikkaa tai historiaa
+että sitten tietäis-would know jostain tietystä aiheesta enemmän
+ja sitten se vois auttaa siinä-in that toimittajan työssä
+
+tai jos menis ulkomaille kouluun 
+että menisi ihan selkeästi-clearly niinku sellaseen piiriin-circle-ring
+missä sitten muilla ei suomessa olisin niin paljon tietoa
+
+
+
+
+
 
 
 
