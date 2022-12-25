@@ -120,7 +120,57 @@ diodin toiminta-operation tasasuuntaajana-rectifier perustuu-based on siihen
 että sähkövirta voi kulkea sen läpi vain yhteen suuntaan
 nykyisin käytössä olevat diodit valmistetaan puolijohteesta.
 
-ledit eli loistediodit ovat puolijohdediodeja
+ledit eli loistediodit ovat puolijohdediodeja jotka säteilevät valoa 
+
+//?????//?????//?????//?????//?????//?????
+kun niiden läpi johdetaan sähkövirta   
+//?????//?????//?????//?????//?????//?????//?????
+
+ledejä käytetään muunmuassa sähkölaitteiden merkkivaloina, hälytys-emergency ajoneuvojen-vehicles 
+vilkku-blinking valoissa, ulkoilma tapahtumien-gatherings/events ja kadunvarsien-next to street 
+videonäyttöissä sekä yhä-even enemmän myös valaistuksessa on myös kehitetty ledeihin perustuvia-based kännyköitä
+televisioiden ja tietokoneiden näyttöjä 
+ledejä valmistetaan esimerkiksi kaliummarseniitista...
+ledin valmistusmateriaali määrää-defines/orders ledin lähettämän valon aallonpituuden-wavelength
+väri voi olla esimerkiksi keltainen, vihreä, punainen, sininen, tai useamman värin yhdistelmä
+piikiekko-silicon puck johon on valmistettu satoja mikropiirejä-microcircuits
+
+ledien käyttö valaistuksessa säästää energiaa esimerkiksi hehkulamppujen käyttöön verrattuna-compared to
+ledin väriä voidaan-can be muokata-change ledin pintaan-surface lisätyllä with kalvoilla-membrane ja pinnoitteella
+näin voidaan saada aikaan-can-be-achieved valo jonka silmä aistii-sense valkoisena-as-white valona
+muita puolijohdediodeja muunmuassa zenerdiodi jota käytetään jännitteen säätöön-change sekä fotodiodi joka on valolle herkkä-sensitive diodi
+
+oppilastyö
+
+kytke-attach esimerkiksi punainen ledi ja säädettävä-changable etuvastus-front-resistor sarjaan-series
+yhdistä ledi anodi plusnapa säädettävän jänteenlähteen plusnapaan ja katodi sääätövastukseen-resistor (kytkentä-diagram 1)
+suurenna-increase säädettävästä jännittelähteestä varovasti jännitettä
+tarkkaile-examine lediä
+käännä kytkennässä oleva ledi toiseenpäin
+mitä havaitset?
+
+tee kuvan 2 mukainen-same-as kytkentä
+mittaa diodissa ja vastuksessa tapahtuvat jännitehäviöt-voltage-loss
+
+kynnysjännitteitä
+kynnysjännite-treshold-voltage
+
+jotta-so-that ledit valaisisivat ne vaativat yleensä kymmennen viiva kaksikymmentä milliamppia sähkövirtaa
+usein sähkövirta on rajoitettava-border/must-be-limited etuvastuksella
+
+oppilastyön ensimmäisessä kohdassa-part led anodi kytketään jännitelähteen plusnapaan ja diodi kytketään päästösuuntaan-discharge-direction
+päästösuuntaan kytketyn-attached diodiin läpi voi kulkea sähkövirta
+sähkövirta kulkee kuitenkin vasta kun diodin päiden-tips välinen jännite on suurempi kuin tietty-certain minimi jännite, niin sanottu-so-called kynnysjännite
+oppilastyössä punaisen ledin kynnysjännite on noin 1.6 volttia 
+kun ledin anodi kytketään jännitelähteen miinusnapaan diodin läpi ei kulje sähkövirtaa
+diodi on silloin kytketty estosuuntaan-blocking-direction
+
+
+
+
+
+
+
 
 
 
