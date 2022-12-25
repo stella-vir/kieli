@@ -153,7 +153,7 @@ tee kuvan 2 mukainen-same-as kytkentä
 mittaa diodissa ja vastuksessa tapahtuvat jännitehäviöt-voltage-loss
 
 kynnysjännitteitä
-kynnysjännite-treshold-voltage
+kynnysjännite-threshold-voltage
 
 jotta-so-that ledit valaisisivat ne vaativat yleensä kymmennen viiva kaksikymmentä milliamppia sähkövirtaa
 usein sähkövirta on rajoitettava-border/must-be-limited etuvastuksella
