@@ -165,6 +165,46 @@ oppilastyössä punaisen ledin kynnysjännite on noin 1.6 volttia
 kun ledin anodi kytketään jännitelähteen miinusnapaan diodin läpi ei kulje sähkövirtaa
 diodi on silloin kytketty estosuuntaan-blocking-direction
 
+ledi kytketään päästö-discharge suuntaisesti kaksitoista volttia tasajännitteeseen
+ledin kynnysjännite on noin 1.7 volttia ja virta 18 milliamppia
+miksi kytkinnässä tarvitaan etuvastus?
+B) laske etuvastuksen suuruus-size ja tehon-power kesto-duration
+Koska ledi kytketään kynnysjännitettään suurempaan jännitteeseen 
+etuvastus suojaa lediä liian suurelta jännitteeltä
+
+etuvastuksen jännitehäviö on oltava-pitää
+
+yksi plus yksi on kaksi, yksi miinus yksi on nolla, yksi kertaa yksi on yksi
+
+R on yhtäsuuri kuin U jaettuna I:llä (R = U/I)
+
+Etuvastuksen tehonkesto on oltava vähintään
+
+Liikennevalot ja muut liikenneopastimet-guide näkyvät selkeästi myös kirkaassa auringonvalossa.
+Ledivalojen käyttöikä on pitkä ja niiden ylläpito-maintanence kustannukset-costs ovat alhaiset
+Ledejä käytetään myös autojen etu- ja takavaloissa.
+Suurissa videonäyttöissä käytetään leditekniikkaa.
+Värit muodostetaan vihreiden sinisten ja punaisten ledien avulla.
+
+Diodien ominaiskäyrä
+Rakenna kuvan mukainen kytkentä jossa diodi on kytketty päästösuuntaan.
+Tutki tietokonepohjaisen mittausjärjestelmän avulla miten diodin kulkeva sähkövirta riippuu diodin jännitteestä.
+Käännä diodi toisinpäin eli estosuuntaan ja vastaavat mittaukset kun kohdassa 1.
+Kun diodi kytketään päästösuuntaan sähtövirta alkaa kulkea vasta kun jännite on ylittänyt kynnysjännitteen.
+Tämän jälkeen virta kasvaa voimakkaasti.
+Estosuuntaankin kytketyn diodin läpi kulkee pieni sähkövirta.
+Sen suuruus riippuu estosuuntaisen jännitteen suuruudesta.
+Jos estojännite kasvaa liikaa diodissa tapahtuu niin sanottu läpilyönti-strike-through ja diodi tuhoutuu-destroyed.
+Läpilyöntijännite on diodista riippuen 5-1000volttia.
+
+Vaihtovirran tasasuuntaus on yksi diodien tärkeimmistä käyttökohteista.
+Neljän diodin muodostavaa kokonaisuutta sanotaan tasasuuntaussillaksi-direct-current-bridge.
+Sen avulla vaihtovirta voidaan muuttaa tasavirraksi.
+Tähän palataan tarkemmin sähkömagnetismi 6:ssa.
+
+
+
+
 
 
 
