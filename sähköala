@@ -203,19 +203,66 @@ Sen avulla vaihtovirta voidaan muuttaa tasavirraksi.
 Tähän palataan tarkemmin sähkömagnetismi 6:ssa.
 
 
+p- ja n- tyypin puolijohteet 
+puolijohteet johtavat puhtaina-pure huonosti sähköä.
+esimerkiksi piikiteessä atomin kaikki neljä ulkokuoren elektronia muodostavat 
+kovalenttisen sidoksen-bond naapuriatomien kanssa.
+Siksi kiteessä ei juuri ole sähkövirran vaatimia vapaita elektroneja
+Vain pieni määrä elektroneja voi vapautua sidoksista 
+esimerkiksi valon tai lämpöliikkeen-movement vaikutuksesta-due to
 
+puolijohteen sähkönjohtokykyä-conductivity 
+voidaan parantaa-improved seostamalla-dope 
+siihen pieniä määriä sopivasti valitun-chosen toisen aineen atomeja
+ns epäpuhtausatomeja-impurity
+tätä kutsutaan puolijohteen douppaamiseksi 
+seostuksen määrä on tavallisesti luokkaa yksi epäpuhtausatomi
+10^4 - 10^7:ää puolijohteen atomia kohti
+käytettyjä epäpuhtausatomeja on kahdenlaisia
+toisissa on elektroniverhon-curtain ulkokuorella yksi elektroni enemmän
+kuin alkuperäisessä puolijohdeatomissa toisissa yksi vähemmän
 
+epäpuhtausatomia jossa ulkokuorella on yksi elektroni enemmän 
+kuin puolijohteen atomissa 
+kutustaan donoriksi eli antajaksi 
+donori luovuttaa-give up-donate kiteeseen-crystal ylimääräisen elektronin 
+jota se ei tarvitse sidoksiin puolijohdeatomiean kanssa
+tämä elektroni voi toimia varauksenkuljettajana-booked driver
 
+donoreilla seostettua puolijohdetta kutsutaan n-tyypin puolijohteeksi
+koska siinä varauksenkuljettajina toimivat-carrier 
+negatiivisesti varatut-charged elektronit
+esimerkiksi piistä-sillicon saadaan n-tyypin puolijohde
+kun siihen seostetaan-mixed-added viidennen-fifth 
+pääryhmän-main alkuainetta
+vaikkapa-for example arseenia
+arseenilla on uloimmalla-outermost kuorellaan viisi elektronia
+joista neljä asettu-settled ympäröivien piiatomien kanssa
+lujasti-firmly arseenin sidoksiin ja viides jää vapaaksi
 
+epäpuhtausatomia jonka ulkokuorella on yksi elektroni 
+vähemmän kuin puolijohteen atomissa
+kutsutaan akseptoriksi eli ottajaksi
+atomien välisiin sidokisin jää-left akseptorin kohdalle-at tyhjä paikka
+aukko-hole josta puuttuu-lack elektroni
+tähän aukkoon voi siirtyä-move into elektroni 
+toisesta lähiatomista-from a nearby ja niin edelleen-and so on
+kiteessä kulkee-carries silloin-then sähkövirta atomisidoksesta-from the bond
+toiseen siirtyvien-transfered elektronien muodossa-in the form of 
 
+voidaan myös ajatella että sähkövirta on 
+aukon-gap etenemistä-progression kiteessä 
+aukko käyttäytyy-behaves kuten positiivisesti 
+varautunut-charged hiukkanen-particle 
+ja kulkee vastakkaiseen-opposite suuntaan kuin elektronit 
+ts.-toinen sano sähkövirran suuntaan
 
+piikiteessä epäpuhtautena oleva-present as arseeniatomi 
+luovutta kiteeseen vapaan elektronin
 
-
-
-
-
-
-
+piikiteessä epäpuhtautena oleva-present as booriatomi 
+luo-create atomisidokssin aukon eli paikan
+josta puutuu elektroni
 
 
 
