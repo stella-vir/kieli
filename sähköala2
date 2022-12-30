@@ -1,0 +1,71 @@
+akseptoreilla seostettua-doping puolijohdetta kutsutaan p-tyypin puolijohteeksi
+koska siinä varauksenkuljettajilla -aukoilla- on positiivinen varaus
+kun piihin seostetaan kolmannen pääryhmän alkuainetta
+esimerkiksi booria, syntyy p-tyypin puolijohde
+booriatomin ja piiatomien välisiin sidoksiin-bond jää yhteen kohtaan-part aukko
+koska boorilla on ulkokuorellaan vain kolme elektronia 
+aukko toimii sähkönkuljettajana siirtyessään sidoksesta toiseen koko-whole kiteen-crystal läpi
+piikiteessä on huoneenlämpötilassa noin 10^10-potenssiin vapaata elektronia kuutiosenttimetrissä-cube
+piitä seostetaan arseeniatomeilla suhteessa yhden suhde miljoonaan
+
+laske kuinka monta vapaata elektronia kuutiosenttimetrissä on näin syntyneessä n-tyypin puolijohteessa
+ja vertaa tulosta vapaiden elektronien määrään puhtaasssa piikiteessä
+piin tiheys-density on 2.,33 g/cm-gram centimetria kohti ja moolimassa 28-1 g/mol
+
+piiatomin massa-mass saadaan jakamalla-divide moolimassa m <sub>si</sub> -alas indeksi = 28.1 g/mol 
+moolissa olevien atomien lukumäärällä-count
+eli avogadron luvulla 
+piiatomien lukumäärä kuutiosenttimetrissä saadaan jakamalla piin tiheys yhden piiatomin massalla
+epäpuhtautenna olevien arseeniatomien määrä on silloin 
+
+jokainen arseeniatomi tuo kiteeseen yhden vapaan elektronin
+joten vapaiden elektronien lukumäärä kuutiosenttimetrissä on 5.0 x 10^16 *
+vapaiden elektronien määrä on 5.0 * 10^16 elektronia/cm^3 
+vapaita elektroneja on noin viisi miljoonaa kertaa niin paljon kuin-more than puhtaassa piikiteessä
+
+puolijohdekomponentteja valmistetaan yhdistämällä-combining eri tavoin-menetelmillä seostettuja puolijohteita toisiinsa-each other
+kun p- ja n- tyypin puolijohdepalat-aamupala liitetään toisiinsa
+syntyy pn-liitos joka on monien puolijohdekomponenttien perusosa
+diodi jota oppilastöissä tutkittiin on perusrakenteeltaan yksinkertainen pn-liitos
+ennen p-tyypin puolijohteen ja n-tyypin puolijohteen diodiksi yhdistämistä molemmat ovat sähköisesti neutraaleja
+p-tyypin puolijohteessa on liikkuvia aukkoja ja sama määrä kiteeseen sidottuja negatiivisia akseptori-ioneja
+n-tyypin puolijohteessa on liikkuvia elektroneja ja sama määrä kiteeseen sidottuja positiivisa donori-ioneja
+
+kun puolijohteet yhdistetään, liitoskohdan lähistöllä olevia p-puolen aukkoja alkaa lämpöliikkeen vaikutuksesta siirtyä rajapinnan läpi
+n-puolelle ja n-puolen elektroneja p-puolelle
+kun elektroni kohtaa-meet atomisidoksessa olevan aukon 
+se asettuu siihen
+tätä kutsutaan rekombinaatioksi 
+elektroni ja aukko eivät enää tämän jälkeen toimi varauksenkuljettajina
+tällä tavoin liitos-kohdan-part läheisyyteen- muodostuu alue
+jossa ei ole varauksenkuljettajia
+aluetta kutsutaan tyhjennysalueeksi
+
+kun vapaat elektronit ja aukot ovat hävinneet-disppear-lose pn-liitoskohdan ympäristöstä 
+ja tyhjennysalue on muodostunut 
+molemmille puolille pn-liitosta jää nettovaraus-net 
+p-puolella on akseptori-ionien aiheuttama negatiivinen varaus
+ja n-puolella on donori-ionien aiheuttama positiivinen varaus
+ionit ovat sidottuina kiderakenteesseen 
+eivätkä ne liiku 
+varaukset aiheuttavat sähkökentän jonka suunta on n-tyypin puolijohteesta p-tyypin puolijohteeseen 
+n-ja p-puolen välistä potentiaalieroa sanotaan kynnysjännitteeksi 
+
+puolijohde-elektroniikan valmistamisessa on korkeat puhtausvaatimukset-req
+pn-liitoksen ympäristöön syntyy tyhjennysalue, jossa ei ole varauksenkuljettajia 
+kun vappat elektronit ja aukot ovat rekombinoituneet tyhjennysalueelle jää jäljelle-remains 
+negatiivisia askseptori-ioneita ja positiivisia donori-ioneita
+ne aiheuttavat n-puolelta p-puolelle suuntautuvan sähkökentän 
+
+162 lopput
+
+
+
+
+
+
+
+
+
+
+
