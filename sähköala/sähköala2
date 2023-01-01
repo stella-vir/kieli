@@ -67,15 +67,66 @@ ja p-puolella oleviin aukkoihin liitoskohdasta-connection-joint point poispäin 
 tämän takia tyhjennysalueen ulkopuolella olevat varauksenkuljettajat eivät pysty siirtymään tyhjennysalueelle
 tai ylittämään-cross sitä ilman lisäenergiaa
 
-pn-liitos-junction ulkoiseen jännitteeseen kytkettynä-connected
-sähkövirran kulkuun pn-liitoksen läpi voidaan vaikuttaa 
+-------------------------------------------------------------------
+???????????????????????????????????????????????????????????????????
+pn-liitos-junction ulkoiseen jännitteeseen kytkettynä-connected to
+
+sähkövirran kulkuun pn-liitoksen läpi voidaan vaikuttaa-affect-aiheuttaa-cause 
 kytkemällä-connect liitos ulkoiseen jännitteeseen 
 
 estosuuntaisessa-blocking kytkennässä diodin p-puoli
-on yhdistetty jännitelähteen negatiiviseen ja n-puoli positiiviseen napaan
+on yhdistetty-connect jännitelähteen-source negatiiviseen ja n-puoli positiiviseen napaan-poles
 
-jännitelähteen positiivinen napa vetää puoleensa n-alueen 
-elektroneja ja negatiivinen napa p-alueen aukkoja
+jännitelähteen positiivinen napa vetää puoleensa n-alueen elektroneja 
+ja negatiivinen napa p-alueen aukkoja 
+elektronit ja aukot siirtyvät tällöin-then entistä-even kauemmas-further toisistaan 
+ja pn-rajapinnasta tyhjennysalue levenee-wider ja sähkövirran kulku diodin läpi vaikeutuu-difficult entisestään-from before
+
+lämpöliikkeen takia tyhjennysalueella on kuitenkin vähäinen määrä varauksenkuljettajia
+jotka aiheuttavat pienen estosuuntaisen vuotovirran-leakage-bleeding blood-vuotaa verta-vertaa hiirtää ja näppäimistöä toisiinsa
+vuotovirran määrä riippuu diodin lämpötilasta
+
+diodi on kytketty päästösuuntaan kun p-puoli on yhdistetty jännitelähteen positiiviseen ja n-puoli negatiiviseen napaan
+syntyvä päästösuuntainen jännite on vastakkainen-corresponding tyhjennysalueella-drainage vallitsevalle-control-preveiling kynnysjännitteelle-threshold
+kun päästösuuntainen jännite ylitää-exceeds kynnysjännitteen arvon
+sähkökentän suunta liitosalueella on p-alueesta n-alueeseen
+tämä sähkökenttä kuljettaa p-alueen aukkoja ja n-alueen elektroneja kohti-towards pn-rajapintaa jossa ne rekombinoituvat
+diodin läpi kulkee silloin sähkövirta päästösuuntaan eli p-alueesta n-aluelle
+sähkövirta kasvaa nopeasti jännitteen kasvaessa-as it grows hidastuessa-tuo tullessa-vie mennessä...
+oppilastyössä mitatussa diodin ominaiskäyrässä-characteristic curve havaitiin virran voimakas kasvu päästösuuntaisen jännitteen ylittäessä 
+kynnysjännitteen arvon 1,7v
+
+estosuuntaan kytketyssä diodissa on leveä tyhjennysalue jonka läpi ei kulje sähkövirtaa
+
+päästösuuntaan kytketyssä diodissa elektronit ja aukot kulkevat pn-liitoskohtaa-part-point kohti  jossa ne rekombinoituvat 
+diodin läpi kulkee sähkövirta p-alueesta n-alueen suuntaan
+aurinkopaneeleissa auringonvalon energiaa muutetaan aurinkokennoilla-cells sähköksi
+lentokonekin voi saada energiansa-its siipiin-wings asetetuilla aurinkopaneeleilla
+  
+ultravioletilla led-valolla voidaan puhdistaa vettä 
+hipaisukytkimissä-touch-tactile switches käytetään fotodiodeja
+  
+transistori
+transistorit ovat puolijohteista valmistettuja elektroniikan peruskomponentteja
+niitä käytetään mm.-muun muassa vahvistimina-amplifier-magnifier, elektronisten muistien-of memory elementeinä ja erilaisina kytkiminä  
+yksinkertaisimmassa transistorissa-bipolaarinen transistori on yhdistetty kolme puolijohdetta toisiinsa joko järjestyksessä pnp tai npn
+transistorissa on siis aina sekä päästö että estosuuntainen liitos 
+transistorin toiminta virranvahvistimena perustuu siihen 
+että transistorin keskimmäiseen-middle osaan-part ns.niin sanottuun kantaan-base, viedään pieni ohjausvirta-control
+jonka avulla kantaan saadaan siirtymään runsaasti-paljon varauksenkuljettajia
+kanta-pohja on heikommin saostettu kuin transistorin muut osat emitteri ja kollektori
+näin ollen-thus-sitten-joten vain pieni osa emitteriltä kannalle tulevista varauksenkuljettajista rekombinoituu
+ja suurin osa jatkaa ohuen-thin-thick-leveä-paksu kannan läpi kollektorille liitoksessa vallitsevan voimakkaan sähkökentän takia
+pienellä ohjausvirralla-control voidaan näin saada aikaan suuri sähkövirta emitterin ja kollektorin välille
+
+sivu 167 toinen kappale
+
+bipolaaristen transistorien lisäksi on olemassa ns. kanavatransistoreja
+
+
+
+
+
 
 
 
