@@ -67,9 +67,15 @@ ja p-puolella oleviin aukkoihin liitoskohdasta-connection-joint point poispäin 
 tämän takia tyhjennysalueen ulkopuolella olevat varauksenkuljettajat eivät pysty siirtymään tyhjennysalueelle
 tai ylittämään-cross sitä ilman lisäenergiaa
 
+pn-liitos-junction ulkoiseen jännitteeseen kytkettynä-connected
+sähkövirran kulkuun pn-liitoksen läpi voidaan vaikuttaa 
+kytkemällä-connect liitos ulkoiseen jännitteeseen 
 
+estosuuntaisessa-blocking kytkennässä diodin p-puoli
+on yhdistetty jännitelähteen negatiiviseen ja n-puoli positiiviseen napaan
 
-
+jännitelähteen positiivinen napa vetää puoleensa n-alueen 
+elektroneja ja negatiivinen napa p-alueen aukkoja
 
 
 
