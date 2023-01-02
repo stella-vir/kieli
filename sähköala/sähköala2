@@ -121,7 +121,28 @@ pienellä ohjausvirralla-control voidaan näin saada aikaan suuri sähkövirta e
 
 sivu 167 toinen kappale
 
-bipolaaristen transistorien lisäksi on olemassa ns. kanavatransistoreja
+bipolaaristen transistorien lisäksi on olemassa ns. kanavatransistoreja-field effect transistor 
+niissä sähkövirran määrää voidaan säädellä-rules-säänto ulkoisen jännitteen aiheuttamalla sähkökentällä
+ohuita-thin kanavatransistoreja voidaan valmistaa helposti esimerkiksi piilevyjen-silicon disk pintaan
+
+transistorit keksittiin vuonna 1947 ja ne mullistivat-revolutionized pian koko elektroniikkateollisuuden
+kaikki nykyelektroniikka mm kotitietokoneet digitelevisiot ja laajakaistayhteydet-broad bandwith perustuu transistoritekniikkaan
+yksittäisten transistorien sijasta nykyelektroniikassa käytetään useiden komponenttien muodostamia mikropiirejä 
+eli integroituja piirejä 
+mikropiirejä ovat mm. vahvistimet mikroprosessorit ja elektroniset muistit
+yhdessä mikropiirissä saattaa olla satoja miljoonia transistoreja niiden määrää on käytetty mittaamaan ja ennustamaan-predict elektroniikan kehitystä
+amerikkalainen gordon moore esitti vuonna 1964 ns Mooren lain jonka mukaan transistorien määrä tavanomaisissa mikropiireissä 
+kaksinkertaistuu-doubles aina kahdessa vuodessa
+kehityksen on mahdollistanut komponenttien koon pieneneminen nanoelektroniikassa komponentit ovat nanometrin kokoluokkaa
+
+kaavakuva ja piirosmerkki 
+
+
+
+
+
+
+
 
 
 
