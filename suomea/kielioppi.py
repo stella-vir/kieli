@@ -97,6 +97,7 @@ autokoulussa nuorille opetetaan
 
 vaaratilanteen
 myös vaaratilanteen ennakointia-precaution
+liikenteen ennakointi on tärkeää
 mielikuvaharjoituksessa-imagery
 kuljettaja kuvittelee 
 
