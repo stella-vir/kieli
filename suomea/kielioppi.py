@@ -104,5 +104,33 @@ kuljettaja kuvittelee
 onnettomuudessa
 itsensä ajamaan onnettomuudessa
 
+pirkka-lehden niksit-tricks
+ei ne suuret tulot-income
+vaan ne pienet menot-expenses
+
+suomen kansan-people sananlaskut-proverbs 
+ovat aina kertoneet
+
+säästäväisyydeltä
+miten säästäväisyydeltä-of frugality
+on selvitty-resolved 
+vaikeistakin-difficult ajoista-from time
+saman tietävät-know pirkka-lehdelle-lehti
+
+lähettävät lukijat
+niksejä-tricks lähettävät-posted by 
+lukijat-reader
+niksejä on julkaistu vuodesta 1974
+
+on
+nyt 31 vuotta myöhemmin niitä-they on koossa-together
+lähes 70000 kappaletta-pieces
+
+näistä-of these 3800 on julkaistu pirkka-lehden sivuilla-pages
+tästä mittavasta-huge niksivarannosta-stock niksipalstaa-piece
+kokoava-collecting niksologi Anssi Orrenmaa on vaikoinut-selected
+tähän kirjaan parharimmat ja toimivimaat-effective
+nuukailuniksit-snoring unit-tips
+tästä-for that kiitos anssi orrenmaalle
 
 
