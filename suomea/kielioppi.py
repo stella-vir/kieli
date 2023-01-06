@@ -134,3 +134,28 @@ nuukailuniksit-snoring unit-tips
 tästä-for that kiitos anssi orrenmaalle
 
 
+lapsi piti äitiä kiinni kädestä-was holding
+
+jutella
+pirkon kanssa on aina mukava jutella-to talk to
+
+lahjaksi
+hän antoi minulle kirjan lahjaksi-as 
+
+tanssimaan
+haluaisin oppia tanssimaan tangoa
+
+eteiseen
+jätimme kengät eteiseen-in the hall
+
+leivottiin
+ennen itä-suomessa leivottiin melkein joka päivä
+
+paikasta
+etsimme lehteä-magazine joka paikasta
+
+joutui
+liisa sai puhelun töistä, jo hän joutui lähtemään
+
+
+
