@@ -156,7 +156,7 @@ etsimme lehteä-magazine joka paikasta
 
 joutui
 liisa sai puhelun töistä, jo hän joutui lähtemään
-hänen täytyi lahti
+hänen täytyi lahteä
 
 vuosia
 kristiina regina on kyntänyt-plowed meriä 
