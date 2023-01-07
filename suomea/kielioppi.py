@@ -156,6 +156,51 @@ etsimme lehteä-magazine joka paikasta
 
 joutui
 liisa sai puhelun töistä, jo hän joutui lähtemään
+hänen täytyi lahti
 
+vuosia
+kristiina regina on kyntänyt-plowed meriä 
+kotkalaisvarustamon nimissä jo vuosia
+
+suurimman
+suurimman osan vuodesta se liikkuu-moves
+suomen vesien ulopuolella,
+lähinnä-mostly välimerellä-mediterraneen
+ja atlantila
+
+tulevat 
+mut matkustajat-passengers tulevat 
+etupäässä-primarily suomesta
+alus on vanhan ajan puulaiva-wood
+
+pienikokoinen
+ja suhteellisen-relatively 
+pienikokoinen-small size
+
+hotellia
+tasoltaan se vastaa-corresponds to viiden 
+tähden-star hotellia 
+
+mut se, mikä luksuksessa-luxury 
+mentetään-lets go
+
+se viihtyvyydessä-in comfort
+ja kodikkuudessa-coziness voitetaan-win in
+
+luvulla
+tätä samaa reittiä-route matkasivat 
+jo 800-luvulla-in the 8th century 
+normannit eli viikingit
+
+olivat 
+alukset olivat parikymmenmetrisiä-20 
+puuveneitä-wood boat, mut hyvin nopeita
+
+purjeilla-sails varustetuilla-equipped viikinkiveneillä
+
+nopeasti
+päästiin-got there
+suotuisissa-in favorable tuulissa nopeasti
+eteenpäin-ahead
 
 
