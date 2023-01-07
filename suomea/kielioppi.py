@@ -203,4 +203,40 @@ päästiin-got there
 suotuisissa-in favorable tuulissa nopeasti
 eteenpäin-ahead
 
+pitkää
+liisa on nyt aivan-quite tyytyväinen-happy jyväskylässä
+mut ennen pitkää-before long hän alkaa 
+varmasti ikävoidä-miss kotiin
+
+ristiin
+lomalla kiersimme-tour suomea 
+ristiin rastiin-crisscross
+muuhun -to the rest
+tuohun -to that
+
+täynnä
+olen todella kiireinen.
+mulla on kädet täynnä-full with
+työtä.
+
+tippaan
+matti ei tee mitään ajoissa.
+hän jättää aina kaiken 
+viime tippaan.
+
+paljain
+kesällä on mukava, 
+kun ei tarvitse käyttää 
+kenkiä. voi kulkea 
+paljain-bare jaloin.
+
+tarkkaan
+harkitse-consider nyt 
+tarkkaan-carefully, 
+mitä teet
+
+mulla oli aamulla kamala kiire,
+juoksin pää-with the head
+kolmantena-as a third jalkana-leg
+peukalo -thumb
 
