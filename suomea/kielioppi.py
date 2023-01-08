@@ -238,5 +238,87 @@ mitä teet
 mulla oli aamulla kamala kiire,
 juoksin pää-with the head
 kolmantena-as a third jalkana-leg
-peukalo -thumb
+peukalo -thrumb
+
+aiheuttava
+chili- eli maustepaprikoiden
+sisältämä tulisuutta-fieryness
+aiheuttava kapsaisiini
+voi olla uusi ase-weapon
+taistelussa-in action
+
+syöpää
+syöpää vastaan
+
+aiheuttaa
+tutkijat yhdysvalloissa ja japanissa
+ovat todenneet että
+kapsaisiini saattaa aiheuttaa
+eturauhassyöpäsolujen
+apoptoosin eli solukuoleman
+
+syöttivät
+tutkijat syöttivät-fed hiirille-mice
+kapsaisiiniuutetta-extract
+minkä tuloksena-resulting 80 prosenttia 
+eturauhassyöpäsoluista
+-of prostate cancer cells
+kuoli
+
+muihin
+lisäksi kapsaisiinia saaneiden
+hiirten syöpäkasvaimet olivat
+kooltaan-in size vain noin 
+viidenneksen-one fifth
+muihin verrattuna
+
+saama
+hiirten saama annos-dose vastaa ihmiselle
+annettuna 400 milligrammaa kapsaisiinia 
+kolmesti viikossa
+
+voimakkain
+saman määrän saa syömällä-by eating
+3 8 tuoretta-fresh habaneroa
+joka on voimakkain-strongest
+kaikista chileistä
+
+kiireisiä
+monessa perheessä vapaapäivät ovat
+niin kiireisiä,
+kiireellinen-urgent
+että viikonlopun jälkeen
+perheenäiti palaa töihin
+väsyneempäna kuin hän oli perjantaina
+kun han sieltä lähti
+poissaolo työpaikalta ei riitä
+
+akkujen
+akkujen lataamiseen-charging
+jos kiire ja stressi vaivaavat-bothers
+myös kotona
+monet ovat nykyään sitä mieltä,
+että koti pitäisi rauhoittaa lepopaikaksi
+
+jossa
+jossa jokainen perheenjäsen
+saa olla niin kuin itse haluaa
+tärkeintä-the most important
+
+perustarpeista
+on perustarpeista-of basic needs
+huolehtiminen-taking care
+
+riitävä uni, ulkoilu-outdoor ja 
+terveellinen ruoka
+lapsetkaan-neither eivät tarvitse 
+
+toimintaa
+koko ajan toimintaa-activity
+
+mukavalta
+vain heistäkin tuntuu joskus 
+mukavalta vain oleilla ilman
+sen suurempia suunnitelmia
+
 
