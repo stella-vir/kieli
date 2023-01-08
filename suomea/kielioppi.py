@@ -321,4 +321,26 @@ vain heistäkin tuntuu joskus
 mukavalta vain oleilla ilman
 sen suurempia suunnitelmia
 
+tärkeydestä
+mitä mieltä sinä olet 
+asian tärkeydestä-importance
 
+on nostettu
+monissa puheenvuoroissa-in many speeches
+on nostettu-brought esille-up suomen 
+puheenjohtajuus-presidency
+
+suurempi
+ei urheilusuoritus-sports performance
+ole elämää 
+suurempi-bigger than life asia
+
+yhteen
+voin korjata kupin, koska palat-pieces 
+vain täytyy sovittaa-fit yhteen-together.
+
+tallentamalla 
+varmista-ensure tiedon-info 
+säilyminen-preservation
+tallentamalla-by saving
+tiedosto-file heti
