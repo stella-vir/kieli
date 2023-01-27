@@ -31,11 +31,23 @@ nk-ng onkia-ongin
 t-d tietää-tiedän
 rt-rr ymmärtää-ymmärran
 
+partitiivi
+partitiivissa ei kpt vaihtelua
+vokaali a-ä
+taloa valoisaa kylmää
+ia-ea-eä a-ä
+italiaa vaikeaa pimeää
+2 vokaalia-konsonantti ta-tä
+maata-puhelinta-kaunista-telivisiota
+e tta-ttä
+kirjettä-venettä-osoitetta-huonetta
 
-
-
-
-
+numero partitiivi
+9 pitkää miestä
+3 hyvää tietokonetta
+monta-vähän-nolla-pari-puoli astetta
+puhua saksaa -rakastaa -etsiä-etsii työpaikkaa -soittaa -katsoa -ymmärtää -auttaa mua
+mulla ei ole autoa 
 
 
 
