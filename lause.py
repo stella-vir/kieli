@@ -89,9 +89,13 @@ nukun
 # hymyillä
 hymyilette
 # ehtiä
-ehtii
+ehtii(have time to)
 # laina
-lainaan
+lainaan(borrow)
+# katsoa
+katson
+# lukea
+luen
 
 # juoda
 juon
@@ -101,20 +105,52 @@ näen näette näkevät
 myy
 #siivota
 siivoaa
-#tulkita
-tulkitsevat
+# saada
+saan
 
 # purra
 puren(bite)
+# nauraa
+nauran mulle
 # nousta
 nousen
+# mennä
+menen
+# kävellä
+kävelen
+# käydä
+käynk
+
 
 #haluta
 haluan
+# pestä
+pesen
+# osata
+osaan
+
 
 # häiritä
 häiritsen  häiritsee
 harkitsen(considering)
+# valita
+valitsen(choose) valinta(choice)
+# välittää
+välitän(care)
+# valittaa
+valitan(complain)
+# mainita
+mainitsen
+#tulkita
+tulkitsevat(interpret-translate-decode)
+
+
+kantaa(carry)
+kääntää(turn flip over translate)
+kaataa(pour)
+
+viedä(take export)
+
 
 hän ei syö spagettia
 me emme opiskele
@@ -127,14 +163,14 @@ korkea-matala
 leveä(wide)-kapea(narrow)
 viihtyisä(homey)-sotkuinen(messy)
 
-# mistä 
+# mistä
 kotoa ulkoa sisältä
 # missä
 kotona ulkona sisällä
 # mihin
 kotiin ulos sisään
 
-
+(sivu 135)
 
 
 
