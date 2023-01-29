@@ -310,6 +310,170 @@ kuvan henkilä on antanut luvan kuvaajalle
 kuvan henkilö on antanut luvan kuvaajalle
 kuvan henkilö on antnut luvan kuvaajalle
 
+dvd uutuudet jättiläinen taivaalla
+suuri boeing 747 matkustajalentokone tärmää ilmassa pienkoneeseen
+törmäyksen johdosta ohjaamoon tulee suuri reikä
+ja kaikki ohjaamossa joko kuolevat tai luokkantuvat pahasti
+ohjaimiin tarttuu lentotaidoton lentoemäntä
+joka on radiolla yhteydessä lentokouluttajana toimivaan miesystäväänsä
+jåättiläinen taivaalla on harvinaisen täydellisesti onnistunut jännityselokuva
+joka on kyennyt kestämään hyvin aikaa ja kykenee vieläkin tarjoamaan katsojalle
+ jännittävän elämyksen
+ myöskään erikoistehosteiden ja muiden teknisten tartkaisujen osalta tämän elokuvan
+ ei tarvitse lainkaan hävetä uusien digitaalisesti tuotettujen teosten rinnalla
+ elokuvan päähenkilö on lentokouluttaja
+ lentoemäntä lentoemännän miesystävä
+ kirjoittajan mielestä elokuva on teknisesti onnistunut
+ kestää liian kauan häviää uusille jännityselukuville
+ dvd uutuudet jättilänen taivaalla
+ suuri boeing 747 matkustajalentokone törmää ilmassa pienkoneeseen
+ törmäyksen johdosta ohjaamoon tulee suuri rekö ja kaikki
+ törmäyksen johdosta ohjaamoon tulee suuri reikä
+ ja kaikki ohjaamossa joko kuolevat tai luokkantuvat pahasti
+ törmäyksen johdosta ohjaamoon tulee suuri reikä ja kaikki
+ ohjaamossa ohjaamossa joko kuolevat tai luokkaantuvat pahasti
+ ohjaimiin tarttuu lentotaidoton lentoemäntä
+ ohjaimiin tartuu lentotaidoton lentoemäntä
+ ohjaimiin tartttuu lentotaidoton lentoemäntä
+ joka on radillla yheydessä lentokouluttajana toimivaan miesystäväänsä
+ lentokouluttajana toimivaan miesystäväänsä
+ jättiläinen taivaalla on harvinaisen täydellisesti onnistunut
+ jännityselkuva joka on kyennyt kestämään hyvin aikaa
+ ja kykenee vieläkin tarjoamaan katsojalle jännitäävän elämyksen
+ kykenee vieläkin tarjoamaan katsojalle jännitävän elämykesen
+jännitävän elämyksen jännitävän elämyksen
+katsojalle jännitävän el'mysen
+myöskään erikoistehosteiden ja muiden teknisten ratkaisujen osalta tämän
+elokuvan ei tarvitse lainkaan hävetä uusien digitaalisesti tuotettujen teosten rinnalla
+
+myöskään erikoistehosteiden ja muiden teknisten ratkaisujen osalta tämän
+elokuvan ei tarvitse lainkaan hävetä uusien digitaalisesti tuotettujen teosten rinnalla
+elokuvan päähenkilö on
+ohjaimiin tarttu lentotaidoton lentoemäntä joka on radiolla yhteydessä lentokouluttajana toimivaan miesystäväänsä
+radiolla yhteydessä lentokouluttajana toimivaaan miesystäväänsä
+
+jättiläinen taivaalla on harvinaisen täydellisesti onnistunut jännityselokuva joka on kyennyt kestämään hyvin
+aikaa ja kykenee vieläkin tarjoamaan katsojalle jännitävän elämyksen
+harvinaisen täydellisesti onnistunut jännityseelokuva
+joka on kyennyt kestämmän hyvin aikaa ja kykenee vieläkin tarjoamaan katsojalle
+muiden teknisten tarkaisujen osalta tämän elokuvan ei tarvitse lainkaan hävetä uusien digitaalisesti tuotettujen
+teosten rinnalla ei tarvitse lainkaan hävetä uusien digitaalisesti tuotettujen teosten rinnalla
+hävetä uusien digitaalisesti tuotettujen teosten rinnalla
+ei tarvitse lainkaan hävetä uusien digitaalisesti tuotettujen teosten teosten rinnalla
+teosten rinnalla
+
+dvd uutuudet jättiläinen taivaalla
+suuri boeing 747 matkustajalentokone törmää ilmassa pienkoneeseen
+törmäyksen johdosta ohjaamoon
+törmäyksen johdosta ohjaamoon tulee suuri reikä ja
+kaikki ohjaamossa joko kuolevat tai luokkantuvat pahasti
+ohjaimiin tarttu lentotaidoton lentoemäntä
+ohjaimiin tarttu lentotaidoton lentoemäntä
+joka on radiolla yhteydessä yhteydessä lentokouluttajana
+joka on radiolla yhteydessä joka on radiolla yhteydessä lentokouluttajana
+toimivaan miesystäväänsä
+joka on radiolla yhteydessä lentokouluttajana toimivaan miesystäväänsä
+jättiläinen tarvaalla on harviinaisen täydellisesti onnistunut jännityselokuva
+jättiläinen tarvaala on harvinaisen harvinaisen täydellisesti onnistunut jännityselokuva
+joka on kyennyt kestämään hyvin aikaa ja kykenee vieläkin tarjoamaan katsojalle
+jännitävän elämyksen
+myöskään erikoistehosteiden ja
+myöskään erikoistehosteiden ja muiden tknisten tartkaisujen osalta tämän elokuvan ei tarvitse
+lainkaan lävetä uusien digitaalisesti tuotettujen teosten rinnalla
+myöskään erikoistehosteiden ja muiden teknisten ratkaisujen osalta tämän elokkuvan ei tarvitse
+laikaan hävetä uusien digitaalisesti tuotettujen toesten rinnalla
+muiden teknisten ratkaisujen osalta tämän elokuvan ei tarvitse lainkaan
+hävetä uusien
+ei tarvitse lainkaan häevetä uusien digitaalisesti tuotettujen teosten rinnalla
+teosten rinnallla tuotettujen teosten rinnalla tuotettujen teosten rinnalla
+tuotettujen teosten rinnalla
+elokuvan päähenkilä on lentoemäntä
+kirjoittajan mielestä elokuva on teknisesti onnistunut .
+
+dvd uutuudet jättiläinen taivaalla
+suuri boeing 747 matkustajalentokone törmää ilmassa pienkoneeseen
+suuri boeging 747 matkustajalentokone törmää ilmassa pienkoneeseen
+törmäyksen johdosta ohjaamoon tulee suuri reikä ja kaikki ohjaamossa joko kuolevat
+tai luokkantuvat pahasti
+törmäyksen johdosta ohjaamoon tulee suuri reikä ja kaikki ohjaamossa joko
+törmäyksen johdosta ohjaamoon tulee suuri reikä
+ja kaikki ohjaamossa j
+törmäyksen johdosta ohjsaamoon tulee suuri reikä
+ja kaikki ohjaamossa joko kuolevat tai luokkantuvat pahasti
+ohjaimiin tarttu lentotaidoton lentoemäntä joka on radiolla yhtydessä
+lentokouluttajana toimivaan miesystäväänsä
+ohjaimiin tarttu lentotaidoton lentoemäntä joka on radiolla yhteydessä
+lentokouluttajana toimivaan miesystäväänsä
+ohjaimiin tarttu lentotaidoton lentoemäntä joka on radilla yhteydesslä
+lentokouluttajana toimivaan miesytäväänsä
+ohjaimiin tarttuu tarttuu lentotaidoton lentoemäntä joka on radiolla yhteydessä
+lentokouluttajana toimivaan miesytäväänsä toimivaan
+jättiläinen taivaalla on harvinaisen täydellisesti onnistunut jännityselokuva
+joka on kyennyt kestämään hyvin aikaa ja kykenee vieläkin tarjoamaan
+katsojalle jännitävän elämyksen
+myöskään erikoistehosteiden ja muiden tknisten ratkaisujen osalta tämän
+elokuvan ei tarvitse lainkaan hävetä uusien digitaalisesti
+tuotettujen teosten rinnalla
+myöskään erikoistehosteiden ja muiden teknisten ratkaisujen
+osalta tämän elokuvan ei tarvitse laikaan hävetä uusien
+digitaalisesti tuotettujen teosten rinnalla
+myöskään erikoistehosteiden ja muiden teknisten ratkaisujen osalta
+tämän elokuvan ei tarvitse lainkaan hävetä uusien digitaalisesti
+tuotettujen teosten rinnalla
+
+elokuvan päähenkilö on lentoemäntä
+kirjoittajan mielestä elokuva on teknisesti onnistunut
+
+ruusu tarinoiden ruusu
+ruusunkukka kantaa mukanaan runsaasti symboliikkaa ja tarinoita
+ruusu liittyy kultturiperintöömme sekä kirkollisissa yhteyksissä että esimerkiksi kirjallisuudessa
+antiikin aikana juhlissa koristauduttiin ruusuin
+uskottiinhan afroditen keksineen ruususeppeleen
+katolinen kirkko leimasikin ruusun aluksi pakanalliseksi
+roomalaiset käyttivät kuitenkin ruusuja vakavisskin yhteyksissä
+niitä vietiin muun muassa hautojen koristeeksi
+ruusunkukkaa käytetttiin antiikissa lisäksi luottamuksen merkkinä
+seurustelupaikan kattoon kiinnitetty tai kuivattu ruusu tarkoitti
+että sen alapuolella käydyt keskustlut olivat luottamuksellisia siitä sanonta sub rosa
+kirjallisuuden muotoutuessa omaksi taiteelajkseen ruusu palautui maallisempiin
+merkityksiin symbolina kukka alkoi renessanssin taideteoksissa merkitä maallista rakkautta
+ ja naisellista kauneurtta
+
+ruusun romaani on keskiajan kirjallisuuden klassikko jossa korostuu aistillisuus
+grimmin veljesten 1800 luvulla kokosmien satujen rakastetuimpiin kuuluun prinsessa ruusunen
+tarinassa lapsi saa vahvistuksen ajatukselle että pahuus ei koskaan voi tuhota huvyyttä
+ja kauneutta
+
+antiikin aikana ruusu oli ensisijaisesti koriste
+ruusun kukka oli alkuaan kirkllinen symboli
+ruunsun alapuolella käyty keskustelu oli salainen
+renessanssin aikaan ruusu oli kauneuden symboli
+
+tarinoiden ruusu
+ruusunkukka kantaa mukanaan runsaasti symboliikka ja tarinoita
+ruusu liittyy kulttuuriperintöömme sekä kirkollisissa yhteyksissä
+että esimerkiksi kirjallisuudessa
+anttikin aikana juhlissa koristauduttiin ruusuin
+uskottiinhan afroditen keksineen ruususeppeleen
+katolinen kirkko leimasikin ruusun aluksi pakanalliseksi
+roomalaiset käytttivät kuitenkin ruusuja vakavissakin yhteyksissä
+niitä vietiin muun muassa hautojen koristeeksi
+ruusunkukka käytettiin antiikissa lisäksi luottauksen merkkinä
+seurustelupaikan kattoon kiinnitetty tai kuivattu ruusu tarkoitti että sen alapuolella käydyt
+keskustelut olivat luottamuksellisia siitä sanonta
+kir jallisuuden muotoutuessa omaksi taiteenlajikseen ruusu palautui
+maallisempoiin merkityksiin symbolina
+kukka alkoi renessanssin taideteoksissa merkitä maallista rakkautta ja naisellistat kauneutta
+ruusun romaani on keskiajan kirjallisuuden klassikko jossa korostuu aistillisuus
+grimmin veljesten 1800 luvulla kokoamien satujen rakastetuimpiin kuuluu prinsessa ruuseunen 
+
+
+
+
+
+
+
+
 
 
 
